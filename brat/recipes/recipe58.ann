@@ -1,0 +1,25 @@
+T1	VERB 26 33	preheat
+T2	WHAT 34 38	oven
+T3	TEMP 42 53	400 degrees
+T4	VERB 120 123	add
+T5	WHAT 124 147	the filling, and baking
+T6	HOW 148 159	accordingly
+T7	VERB 89 95	follow
+T8	WHAT 96 118	your recipe directions
+T9	VERB 161 166	Place
+T10	WHAT 167 186	all the ingredients
+T11	WHERE 187 203	into a 9 pie pan
+T12	VERB 205 209	Stir
+T13	HOW 210 230	together with a fork
+T14	VERB 232 235	Pat
+T15	WHAT 236 247	the mixture
+T16	WHERE 248 291	into the bottom and up the sides of the pan
+T17	VERB 293 297	Poke
+T18	WHAT 298 303	holes
+T19	WHERE 304 342	into the bottom and sides of the crust
+T20	VERB 372 376	Bake
+T21	TIME 377 391	for 15 minutes
+T22	WHERE 392 411	in a preheated oven
+T23	TIME 415 433	until golden brown
+T24	VERB 435 439	Fill
+T25	HOW 440 450	as desired

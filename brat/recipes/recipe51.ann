@@ -1,0 +1,15 @@
+T1	VERB 0 4	COOK
+T2	WHAT 5 13	the eggs
+T3	TEMP 14 30	over medium heat
+T4	TIME 31 43	until fluffy
+T5	HOW 45 64	stirring frequently
+T6	VERB 66 73	Stir in
+T7	WHAT 74 90	the cream cheese
+T8	TIME 92 110	until well blended
+T9	VERB 112 117	SPOON
+T10	WHAT 118 142	the cream cheese mixture
+T11	WHERE 143 163	onto one muffin half
+T12	VERB 165 168	TOP
+T13	HOW 169 206	with the egg mixture and cheese slice
+T14	VERB 208 211	Top
+T15	HOW 212 242	with the remaining muffin half

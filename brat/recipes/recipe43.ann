@@ -1,0 +1,70 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 29	350 degrees F
+T4	WHERE 31 62	On a piece of kitchen parchment
+T5	VERB 64 69	trace
+T6	WHAT 70 101	the bottom of your serving bowl
+T7	VERB 153 157	Turn
+T8	WHAT 158 171	the parchment
+T9	WHERE 172 176	over
+T12	WHAT 193 210	your baking sheet
+T11	VERB 181 192	use to line
+T13	VERB 212 221	Set aside
+T14	WHERE 223 232	In a bowl
+T16	VERB 234 249	stir to combine
+T17	WHAT 250 288	sugar, pumpkin pie spice, and cinnamon
+T18	VERB 290 299	set aside
+T19	VERB 301 305	Open
+T20	WHAT 306 321	can of biscuits
+T21	VERB 326 334	separate
+T22	HOW 335 359	into individual biscuits
+T23	VERB 361 369	Sprinkle
+T24	WHAT 370 387	a rolling surface
+T25	HOW 388 424	with some of the sugar-spice mixture
+T26	HOW 426 439	One at a time
+T27	VERB 441 446	press
+T28	WHAT 447 459	each biscuit
+T29	WHERE 460 496	into the bowl of sugar-spice mixture
+T30	VERB 498 502	Roll
+T31	WHAT 503 515	each biscuit
+T32	WHERE 516 534	on sugared surface
+T33	HOW 535 555	to a 5-inch diameter
+T34	HOW 557 596	Using 2-inch and/or 3-inch leaf cutters
+T35	VERB 598 601	cut
+T36	WHAT 602 613	leaf shapes
+T37	VERB 631 638	reserve
+T38	WHAT 639 651	dough scraps
+T39	VERB 653 661	Position
+T40	WHAT 662 668	leaves
+T41	VERB 719 728	Set aside
+T42	HOW 730 737	Lightly
+T43	VERB 738 742	beat
+T44	WHAT 743 746	egg
+T45	HOW 747 773	with 1 tablespoon of water
+T46	HOW 775 795	Using a pastry brush
+T47	VERB 797 802	paint
+T48	WHAT 803 811	egg wash
+T49	WHERE 812 849	between the leaves where they overlap
+T50	VERB 851 858	Re-roll
+T51	WHAT 859 870	extra dough
+T52	VERB 874 881	cut out
+T53	WHAT 882 900	single leaf shapes
+T54	VERB 907 911	make
+T55	WHAT 912 935	mini individual wreaths
+T56	VERB 937 941	Bake
+T57	WHERE 942 959	in preheated oven
+T58	TIME 960 980	for 14 to 17 minutes
+T59	VERB 982 988	Remove
+T60	WHERE 989 998	from oven
+T61	VERB 1003 1007	cool
+T62	HOW 1008 1018	completely
+T63	TIME 1019 1032	before moving
+T64	TIME 1034 1056	While wreath is baking
+T65	VERB 1058 1062	stir
+T66	HOW 1063 1071	together
+T67	WHAT 1072 1109	sifted powdered sugar and maple syrup
+T68	TIME 1110 1122	until smooth
+T69	VERB 1124 1143	Cover and set aside
+T70	TIME 1145 1167	Once wreath has cooled
+T73	VERB 1169 1172	use
+T74	WHAT 1173 1192	a clean paint brush

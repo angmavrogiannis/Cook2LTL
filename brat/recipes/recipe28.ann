@@ -1,0 +1,16 @@
+T1	VERB 0 4	Dump
+T2	WHAT 5 14	crab meat
+T3	WHERE 15 39	into a large mixing bowl
+T4	VERB 66 74	break up
+T5	WHAT 75 86	crab chunks
+T6	HOW 87 122	to as small size pieces as you like
+T7	VERB 124 127	Add
+T8	WHAT 128 155	sour cream and cream cheese
+T9	VERB 160 164	stir
+T10	TIME 165 183	until well blended
+T11	VERB 185 191	Add in
+T12	WHAT 192 239	the shredded cheese, bacon bits, and seasonings
+T13	VERB 244 248	stir
+T14	HOW 249 257	together
+T15	VERB 259 264	Serve
+T16	HOW 265 322	with tortilla chips, bagel chips, pita chips, or crackers

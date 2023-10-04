@@ -1,0 +1,108 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 20	425F
+T4	VERB 22 26	Line
+T5	VERB 66 71	spray
+T6	HOW 72 79	heavily
+T7	HOW 80 98	with cooking spray
+T8	WHAT 27 42	2 baking sheets
+T9	HOW 43 61	with aluminum foil
+T10	VERB 100 109	Set aside
+T11	VERB 111 115	Seed
+T12	WHAT 116 127	the peppers
+T13	VERB 132 135	cut
+T14	WHAT 136 147	each pepper
+T15	HOW 148 172	vertically into quarters
+T16	HOW 174 206	Stacking 2 to 3 pieces at a time
+T17	VERB 208 211	cut
+T18	WHAT 212 223	the peppers
+T19	HOW 224 257	horizontally into 1/4 inch strips
+T20	VERB 262 267	place
+T21	WHAT 268 272	them
+T22	WHERE 273 295	in a large mixing bowl
+T23	VERB 297 300	Add
+T24	WHAT 301 321	the garlic and onion
+T25	VERB 323 327	Toss
+T26	HOW 328 332	well
+T27	VERB 334 341	Arrange
+T28	WHAT 342 356	the vegetables
+T29	HOW 357 374	in a single layer
+T30	WHERE 375 392	on a baking sheet
+T31	HOW 394 403	liberally
+T32	VERB 404 409	spray
+T33	WHAT 410 414	them
+T34	HOW 415 433	with cooking spray
+T35	TIME 434 460	until they are well coated
+T36	VERB 462 467	Place
+T37	WHAT 468 475	the pan
+T38	WHERE 476 515	on a rack set in the middle of the oven
+T39	VERB 517 524	Arrange
+T40	WHAT 525 537	the eggplant
+T41	WHERE 538 571	on a second prepared baking sheet
+T42	VERB 573 578	Spray
+T43	WHAT 579 591	the eggplant
+T44	HOW 592 610	with cooking spray
+T45	TIME 611 628	until well coated
+T46	VERB 630 635	Place
+T47	WHAT 636 657	a large piece of foil
+T48	WHERE 658 675	over the eggplant
+T49	HOW 677 696	covering it loosely
+T50	VERB 698 703	Place
+T51	WHAT 704 711	the pan
+T52	WHERE 712 742	on rack set toward top of oven
+T53	VERB 744 747	Set
+T54	WHAT 748 755	a timer
+T55	TIME 756 770	for 10 minutes
+T56	TIME 772 788	After 10 minutes
+T57	VERB 790 794	stir
+T58	WHAT 795 802	peppers
+T59	VERB 807 813	return
+T60	WHAT 814 818	them
+T61	WHERE 819 826	to oven
+T62	VERB 828 832	Stir
+T63	WHAT 833 841	eggplant
+T64	VERB 858 863	Cover
+T65	HOW 870 879	with foil
+T66	VERB 884 890	return
+T67	WHAT 891 894	pan
+T68	WHERE 895 902	to oven
+T69	VERB 904 908	Bake
+T70	WHAT 909 932	both pans of vegetables
+T71	TIME 933 951	another 10 minutes
+T72	VERB 953 959	Scrape
+T73	WHAT 960 987	the softened pepper mixture
+T74	WHERE 993 1010	into a large bowl
+T75	VERB 1012 1015	set
+T76	WHAT 1016 1026	the garlic
+T77	WHERE 1027 1032	aside
+T78	VERB 1034 1038	Stir
+T79	WHAT 1039 1051	the eggplant
+T80	HOW 1053 1070	turning the cubes
+T81	VERB 1072 1077	Cover
+T82	WHAT 1078 1080	it
+T83	HOW 1087 1096	with foil
+T84	VERB 1101 1105	bake
+T85	TIME 1106 1181	for 10 minutes, until the cubes hold their shape but feel soft to the touch
+T86	TIME 1183 1192	Meanwhile
+T87	HOW 1194 1202	coarsely
+T88	VERB 1203 1207	chop
+T89	WHAT 1208 1226	the roasted garlic
+T90	VERB 1228 1231	add
+T91	WHAT 1232 1234	it
+T92	WHERE 1235 1276	to the bowl of roasted peppers and onions
+T93	VERB 1278 1281	Add
+T94	WHAT 1282 1345	the jalapeno, cilantro, capers, currants, pine nuts and vinegar
+T95	TIME 1347 1372	When the eggplant is done
+T96	VERB 1374 1380	scrape
+T97	WHAT 1381 1383	it
+T98	WHERE 1384 1395	into a bowl
+T99	VERB 1397 1400	Add
+T100	WHAT 1401 1426	the salt and black pepper
+T101	VERB 1428 1431	Mix
+T102	HOW 1432 1443	with a fork
+T103	TIME 1444 1489	until the caponata is well blended and creamy
+T104	VERB 1491 1500	Set aside
+T105	TEMP 1504 1508	cool
+T106	VERB 1523 1534	refrigerate
+T107	TIME 1535 1557	overnight before using
+T108	HOW 843 856	turning cubes

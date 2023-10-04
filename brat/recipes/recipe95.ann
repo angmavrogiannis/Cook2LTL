@@ -1,0 +1,15 @@
+T1	VERB 0 3	Use
+T2	WHAT 4 17	cooking spray
+T3	TEMP 18 32	on medium heat
+T4	WHERE 33 58	in a large skillet or wok
+T5	VERB 60 77	Break up and cook
+T6	WHAT 78 85	sausage
+T7	TIME 86 99	until browned
+T8	VERB 101 104	Add
+T9	WHAT 105 136	onion, green pepper and carrots
+T10	VERB 141 144	fry
+T11	TIME 145 157	until cooked
+T12	VERB 159 162	Add
+T13	WHAT 163 172	soy sauce
+T14	VERB 177 181	cook
+T15	TIME 182 195	for 2 minutes

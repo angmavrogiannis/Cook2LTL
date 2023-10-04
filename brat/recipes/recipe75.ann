@@ -1,0 +1,18 @@
+T1	VERB 0 5	Brown
+T2	WHAT 6 14	the meat
+T3	WHERE 15 47	in a large skillet or dutch oven
+T4	VERB 49 52	Add
+T5	WHAT 53 63	the onions
+T6	VERB 68 72	cook
+T7	TIME 73 90	until transparent
+T8	VERB 92 95	Add
+T9	WHAT 96 111	the bell pepper
+T10	VERB 117 122	saute
+T11	TIME 123 135	until tender
+T12	VERB 137 140	Add
+T13	WHAT 141 170	the rice, olives, and raisins
+T14	VERB 175 179	heat
+T15	HOW 180 187	through
+T16	VERB 218 224	Season
+T17	HOW 225 245	with salt and pepper
+T18	VERB 246 254	to taste

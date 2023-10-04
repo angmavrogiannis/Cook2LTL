@@ -1,0 +1,33 @@
+T1	WHERE 0 18	In a large skillet
+T2	VERB 20 25	toast
+T3	WHAT 26 37	the coconut
+T4	TEMP 38 54	over medium heat
+T5	TIME 56 78	until golden and crisp
+T6	VERB 80 89	set aside
+T7	VERB 91 96	Brown
+T8	WHAT 97 119	ground beef and garlic
+T9	WHERE 120 139	in the same skillet
+T10	VERB 141 146	drain
+T11	HOW 147 151	well
+T12	VERB 153 156	Add
+T13	WHAT 157 195	salt, pepper lemon juice and soy sauce
+T14	WHERE 197 212	In a small bowl
+T15	VERB 213 220	combine
+T16	WHAT 221 287	the cornstarch with reserved pineapple and mandarin orange liquids
+T17	VERB 289 293	stir
+T18	HOW 294 298	well
+T19	TIME 299 311	until smooth
+T20	TIME 312 316	then
+T21	VERB 317 320	add
+T22	WHERE 321 335	to ground beef
+T23	VERB 340 344	cook
+T24	TEMP 345 361	over medium heat
+T25	TIME 362 421	for 5 mins, stirring constantly, until mixture is thickened
+T26	VERB 423 430	Stir in
+T27	WHAT 431 465	the pineapple and mandarin oranges
+T28	VERB 467 471	cook
+T29	TIME 472 508	2-3 mins, or until thoroughly heated
+T30	VERB 510 515	Serve
+T31	WHERE 516 536	over noodles or rice
+T32	VERB 542 550	sprinkle
+T33	WHERE 551 592	with more toasted coconut and cashew nuts

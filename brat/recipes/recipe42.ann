@@ -1,0 +1,38 @@
+T1	VERB 0 6	Grease
+T2	WHAT 7 32	a 13 x 9-inch baking dish
+T3	WHERE 34 53	In a large saucepan
+T4	VERB 55 60	saute
+T5	WHAT 61 70	the onion
+T6	WHERE 71 77	in oil
+T7	TIME 78 109	until tender (about 3-4 minutes
+T8	WHERE 112 121	In a bowl
+T9	VERB 123 130	combine
+T10	WHAT 131 205	all remaining ingredients including the lemon slices (except the sausages)
+T11	VERB 206 209	mix
+T12	HOW 210 214	well
+T13	VERB 231 236	bring
+T14	TEMP 242 246	boil
+T15	VERB 248 254	Reduce
+T16	WHAT 255 259	heat
+T17	VERB 261 267	simmer
+T18	HOW 268 277	uncovered
+T19	TIME 278 330	for about 20-25 minutes, or until slightly thickened
+T20	HOW 332 353	stirring occasionally
+T21	VERB 356 362	Remove
+T22	WHAT 363 379	the lemon slices
+T23	VERB 384 391	discard
+T24	VERB 393 398	Place
+T25	WHAT 399 423	the sausages or hot dogs
+T26	WHERE 424 442	in the baking dish
+T27	VERB 444 447	Top
+T28	HOW 448 458	with sauce
+T29	VERB 464 467	mix
+T30	HOW 468 476	slightly
+T31	VERB 489 493	Bake
+T32	WHERE 511 515	oven
+T33	TEMP 499 510	350 degrees
+T34	HOW 517 526	uncovered
+T35	TIME 527 575	for about 20-25 minutes, or until heated through
+T37	VERB 577 581	Keep
+T38	TEMP 582 586	warm
+T39	TIME 587 599	when serving

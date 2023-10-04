@@ -1,0 +1,35 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 9	oven
+T3	TEMP 13 17	350F
+T4	VERB 19 26	Prepare
+T5	WHAT 27 38	cake batter
+T6	HOW 39 61	as directed on package
+T7	VERB 63 70	stir in
+T8	WHAT 71 78	cookies
+T9	VERB 80 85	Spoon
+T10	WHERE 86 117	into 24 paper-lined muffin cups
+T11	VERB 119 123	Bake
+T12	TIME 124 192	20 to 25 min, or until toothpick inserted in centres comes out clean
+T13	VERB 194 198	Cool
+T14	WHAT 199 207	cupcakes
+T15	WHERE 208 215	in pans
+T16	TIME 216 222	10 min
+T17	VERB 226 232	remove
+T18	VERB 248 252	Cool
+T19	HOW 253 263	completely
+T20	VERB 265 269	Beat
+T21	WHAT 270 297	pudding mix, milk and sugar
+T22	WHERE 298 311	in large bowl
+T23	VERB 312 317	whisk
+T24	TIME 318 323	2 min
+T25	VERB 326 333	stir in
+T26	WHAT 334 343	Cool Whip
+T27	VERB 345 350	Spoon
+T28	WHERE 351 395	into pastry bag fitted with basket-weave tip
+T29	VERB 397 401	Pipe
+T30	WHAT 402 417	pudding mixture
+T31	WHERE 418 439	onto tops of cupcakes
+T32	VERB 441 444	Add
+T33	WHAT 445 460	chocolate chips
+T34	VERB 475 479	Keep
+T35	HOW 480 492	refrigerated

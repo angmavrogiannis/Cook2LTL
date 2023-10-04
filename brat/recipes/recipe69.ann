@@ -1,0 +1,17 @@
+T1	WHERE 0 18	In medium saucepan
+T2	VERB 20 24	melt
+T3	WHAT 25 45	chocolate with water
+T4	TEMP 46 59	over low heat
+T5	VERB 61 77	Continue heating
+T6	VERB 79 82	add
+T7	WHAT 83 114	walnuts, sugar, rum and vanilla
+T8	VERB 116 119	Mix
+T9	HOW 120 124	well
+T10	VERB 126 132	Remove
+T11	WHERE 133 142	from heat
+T12	VERB 144 148	form
+T13	HOW 149 166	into 1 inch balls
+T14	VERB 168 172	Roll
+T15	WHERE 173 181	in sugar
+T16	VERB 183 188	Store
+T17	WHERE 189 204	in refrigerator

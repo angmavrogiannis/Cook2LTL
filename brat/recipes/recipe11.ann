@@ -1,0 +1,70 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 20	350F
+T4	HOW 21 40	with rack in middle
+T5	VERB 42 47	Crush
+T6	WHAT 48 60	fennel seeds
+T7	HOW 61 85	with a mortar and pestle
+T8	VERB 89 93	wrap
+T9	VERB 117 122	crush
+T10	VERB 155 158	Pat
+T11	WHAT 159 163	pork
+T12	HOW 164 167	dry
+T13	HOW 123 153	with bottom of a heavy skillet
+T14	WHERE 94 112	in a kitchen towel
+T15	TIME 169 173	then
+T16	VERB 174 182	sprinkle
+T17	HOW 183 249	with crushed fennel seeds and 1/2 teaspoon each of salt and pepper
+T18	VERB 251 254	Cut
+T19	WHAT 255 267	fennel bulbs
+T20	HOW 268 299	lengthwise into 1/2-inch wedges
+T21	VERB 301 305	Heat
+T22	WHAT 306 309	oil
+T23	WHERE 310 347	in a 12-inch oven-proof heavy skillet
+T24	TEMP 353 369	medium-high heat
+T25	TIME 370 387	until it shimmers
+T26	VERB 389 394	Brown
+T27	WHAT 395 399	pork
+T28	WHERE 400 412	on all sides
+T29	TIME 414 429	about 6 minutes
+T30	TIME 437 441	then
+T31	VERB 442 450	transfer
+T32	WHERE 451 461	to a plate
+T33	VERB 463 468	Saute
+T34	WHAT 469 493	garlic and fennel wedges
+T35	WHERE 494 504	in skillet
+T36	TIME 505 550	until fennel is golden brown, about 6 minutes
+T37	VERB 552 555	Add
+T38	WHAT 556 560	wine
+T39	HOW 562 597	stirring and scraping up brown bits
+T40	TIME 599 603	then
+T41	VERB 604 611	stir in
+T42	WHAT 612 628	broth and butter
+T43	VERB 630 633	Put
+T44	WHAT 634 638	pork
+T45	VERB 660 668	transfer
+T46	WHAT 669 676	skillet
+T47	WHERE 680 684	oven
+T48	WHERE 639 655	on top of fennel
+T49	VERB 686 691	Roast
+T50	TIME 692 794	until an instant-read thermometer inserted into center of pork registers 145 to 150F, about 15 minutes
+T52	VERB 796 804	Transfer
+T53	WHAT 805 809	pork
+T54	VERB 833 841	let rest
+T55	TIME 842 852	10 minutes
+T56	WHERE 810 828	to a cutting board
+T57	TIME 854 863	Meanwhile
+T58	VERB 865 873	transfer
+T59	WHAT 874 881	skillet
+T60	WHERE 882 893	to stovetop
+T61	VERB 919 923	boil
+T62	HOW 925 946	stirring occasionally
+T63	TIME 948 983	until most of liquid has evaporated
+T64	VERB 985 992	Stir in
+T65	WHAT 993 1038	lemon juice and 1/4 cup chopped fennel fronds
+T66	HOW 1040 1046	Thinly
+T67	VERB 1047 1052	slice
+T68	WHAT 1053 1057	pork
+T69	VERB 1062 1067	serve
+T70	WHERE 1068 1079	over fennel
+T71	HOW 1080 1090	with sauce

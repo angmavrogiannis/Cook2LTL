@@ -1,0 +1,34 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 12	the oil
+T3	WHERE 13 31	in a large skillet
+T4	TEMP 32 48	over medium heat
+T5	VERB 50 53	Add
+T6	WHAT 54 76	the onion and jalapeno
+T7	VERB 81 85	cook
+T8	HOW 86 111	uncovered, stirring often
+T9	TIME 113 156	until the onion is browned, about 6 minutes
+T10	TIME 158 180	During the last minute
+T11	VERB 182 185	add
+T12	WHAT 186 196	the garlic
+T13	VERB 198 206	Let cool
+T14	HOW 207 215	slightly
+T15	VERB 217 224	Combine
+T16	WHAT 225 318	the red peppers, onion and garlic, red wine vinegar, balsamic vinegar, brown sugar, and cumin
+T17	WHERE 319 338	in a food processor
+T18	VERB 343 350	process
+T19	HOW 351 361	to a puree
+T20	VERB 363 369	Season
+T21	HOW 370 379	with salt
+T22	VERB 381 389	Transfer
+T23	WHERE 390 406	to a medium bowl
+T24	VERB 411 419	let cool
+T25	HOW 420 430	completely
+T26	TIME 432 436	then
+T27	VERB 437 442	cover
+T28	HOW 443 450	tightly
+T29	VERB 455 466	refrigerate
+T30	TIME 467 514	until chilled, at least 1 hour, or up to 2 days
+T31	VERB 516 524	Transfer
+T32	WHERE 525 542	to a serving bowl
+T33	VERB 547 552	serve
+T34	TEMP 553 560	chilled

@@ -1,0 +1,41 @@
+T1	VERB 0 5	Cover
+T2	WHAT 6 23	the wheat berries
+T3	HOW 24 34	with water
+T4	VERB 39 43	soak
+T5	TIME 44 53	overnight
+T6	TIME 55 67	The next day
+T7	VERB 68 73	place
+T8	WHAT 74 109	the wheat berries with 8 cups water
+T9	WHERE 110 129	in a large saucepan
+T10	VERB 131 136	Bring
+T11	TEMP 137 146	to a boil
+T12	VERB 148 154	reduce
+T13	WHAT 155 159	heat
+T14	VERB 164 170	simmer
+T15	TIME 171 213	for about 1 to 1 1/2 hours or until tender
+T16	HOW 215 224	uncovered
+T17	VERB 226 247	Drain and refrigerate
+T18	TIME 248 271	until completely cooled
+T19	VERB 273 277	Heat
+T20	WHAT 278 301	1 tablespoon of the oil
+T21	VERB 306 309	fry
+T22	WHAT 310 319	the onion
+T23	TIME 320 340	2 minutes until soft
+T24	VERB 342 345	Add
+T25	WHAT 346 361	the curry paste
+T26	VERB 366 370	cook
+T27	TIME 371 385	3 more minutes
+T28	VERB 386 392	Remove
+T29	WHERE 393 402	from heat
+T30	VERB 407 420	allow to cool
+T31	VERB 422 429	Combine
+T32	WHAT 430 510	the wheat berries, curry onion mixture, nuts, red pepper, mozzarella and parsley
+T33	WHERE 511 520	in a bowl
+T34	VERB 522 527	Whisk
+T35	HOW 528 536	together
+T36	WHAT 537 601	the remaining 2 tablespoons oil, salt and the white wine vinegar
+T37	VERB 603 606	Add
+T38	WHERE 607 631	to the wheat berry salad
+T39	VERB 636 639	mix
+T40	HOW 640 648	together
+T41	VERB 650 655	Serve

@@ -1,0 +1,13 @@
+T1	VERB 0 8	Dissolve
+T2	WHAT 9 14	Jello
+T3	WHERE 15 31	in boiling water
+T4	VERB 33 38	Allow
+T5	TEMP 42 59	cool to room temp
+T6	VERB 61 69	Whisk in
+T7	WHAT 70 79	Cool Whip
+T8	VERB 81 88	Fold in
+T9	WHAT 89 99	watermelon
+T10	VERB 101 111	Spoon into
+T11	WHAT 112 117	crust
+T12	VERB 119 124	Chill
+T13	TIME 125 151	for 2-3 hours or overnight

@@ -1,0 +1,77 @@
+T1	TIME 0 5	First
+T2	VERB 6 13	preheat
+T3	WHAT 19 23	oven
+T4	TEMP 27 31	200C
+T5	TIME 36 40	then
+T6	VERB 41 46	place
+T7	WHAT 47 59	a frying pan
+T8	WHERE 60 70	on the hob
+T9	TEMP 78 89	medium heat
+T10	VERB 91 94	add
+T11	WHAT 100 113	oil or butter
+T12	TIME 118 122	then
+T13	VERB 123 126	add
+T14	WHAT 131 147	onion and garlic
+T15	VERB 149 154	Saute
+T16	TIME 155 165	until soft
+T17	VERB 170 178	take off
+T18	WHAT 183 187	heat
+T19	VERB 192 197	leave
+T20	TEMP 201 205	cool
+T21	TIME 207 216	Once cool
+T22	VERB 218 223	place
+T23	WHAT 224 244	the onion and garlic
+T24	WHERE 245 256	into a bowl
+T25	HOW 258 295	along with the sausage meat and thyme
+T26	VERB 300 306	season
+T27	HOW 307 332	well with salt and pepper
+T28	VERB 334 337	Mix
+T29	HOW 338 345	by hand
+T30	HOW 347 390	making sure everything is incorporated well
+T31	VERB 392 396	Take
+T32	WHAT 397 416	a large baking tray
+T33	VERB 421 427	unroll
+T34	WHAT 428 443	the puff pastry
+T35	WHERE 444 451	over it
+T36	WHERE 453 488	Along the long length of the pastry
+T37	VERB 490 495	place
+T38	WHAT 496 516	the sausage meat mix
+T39	HOW 517 523	evenly
+T40	WHERE 524 537	in the middle
+T41	HOW 539 566	leaving a gap at either end
+T42	TIME 568 572	Then
+T43	HOW 573 586	using a knife
+T44	VERB 588 593	carve
+T45	WHAT 594 601	a gully
+T46	WHERE 602 627	in the centre of the meat
+T47	VERB 658 663	spoon
+T48	WHAT 664 678	an even amount
+T49	WHERE 679 681	in
+T50	TIME 686 690	then
+T51	HOW 691 700	carefully
+T52	VERB 701 706	press
+T53	WHAT 707 715	the meat
+T54	HOW 716 724	together
+T55	HOW 732 744	with a knife
+T56	VERB 746 750	make
+T57	WHAT 751 756	slits
+T58	WHERE 757 823	in the pastry approximately 2 cms apart on either side of the meat
+T59	TIME 828 832	then
+T60	VERB 854 858	fold
+T61	WHAT 859 868	each flap
+T62	WHERE 869 873	over
+T63	HOW 875 898	creating a plait effect
+T64	VERB 903 907	seal
+T65	WHERE 908 920	at both ends
+T66	VERB 922 927	Brush
+T67	WHAT 928 940	the egg wash
+T68	VERB 954 961	scatter
+T69	WHAT 966 977	poppy seeds
+T70	WHERE 978 982	over
+T71	TIME 983 993	after that
+T72	VERB 995 1000	Place
+T73	WHERE 1012 1016	oven
+T74	TIME 1017 1071	for 40 45 minutes until the pastry puffs up and browns
+T75	VERB 1073 1078	Serve
+T76	TEMP 1079 1090	hot or cold
+T77	TEMP 1008 1011	hot

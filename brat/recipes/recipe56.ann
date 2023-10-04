@@ -1,0 +1,24 @@
+T1	VERB 0 5	Place
+T2	WHAT 6 19	a cup of rice
+T3	HOW 21 58	cooled to just above room temperature
+T4	WHERE 60 92	in the bottom of each of 6 bowls
+T5	VERB 98 101	add
+T6	WHAT 102 131	a layer of the avocado slices
+T7	HOW 133 152	distributing evenly
+T8	VERB 180 188	Sprinkle
+T9	WHAT 189 211	a pinch or two of salt
+T10	WHERE 212 226	over each bowl
+T11	VERB 228 231	Add
+T12	WHAT 232 261	the raw matchstick vegetables
+T13	HOW 262 297	in an even, randomly arranged layer
+T14	VERB 303 311	sprinkle
+T15	WHERE 312 332	on the nori confetti
+T16	VERB 334 337	Add
+T17	WHAT 338 346	the fish
+T18	WHERE 347 353	on top
+T19	HOW 355 376	arranging as you wish
+T20	VERB 406 413	Scatter
+T21	WHAT 414 440	scallions and sesame seeds
+T22	WHERE 441 447	on top
+T23	VERB 449 454	Serve
+T24	HOW 455 526	with condiments like soy sauce, wasabi, pickled ginger and rice vinegar

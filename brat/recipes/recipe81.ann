@@ -1,0 +1,19 @@
+T1	VERB 0 4	Toss
+T2	WHAT 5 41	meat with 2 Tbsp  of the steak sauce
+T3	VERB 43 52	let stand
+T4	TIME 53 59	10 min
+T5	VERB 61 72	to marinate
+T6	TIME 74 83	Meanwhile
+T7	VERB 85 92	combine
+T8	WHAT 93 154	remaining 2 Tbsp  steak sauce, the barbecue sauce and mustard
+T9	VERB 156 165	set aside
+T10	VERB 167 174	Preheat
+T11	WHAT 175 180	grill
+T12	TEMP 184 200	medium-high heat
+T13	VERB 202 208	Thread
+T14	WHAT 209 213	meat
+T15	WHERE 214 260	onto eight long metal or soaked wooden skewers
+T16	VERB 262 267	Grill
+T17	WHAT 268 275	skewers
+T18	TIME 276 314	6 min  or until meat is cooked through
+T19	HOW 316 392	turning after 3 min  and brushing frequently with the barbecue sauce mixture

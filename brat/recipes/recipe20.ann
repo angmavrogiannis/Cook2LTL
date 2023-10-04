@@ -1,0 +1,13 @@
+T1	VERB 0 5	Blend
+T2	WHAT 6 37	1 cup soy milk with blueberries
+T3	WHERE 38 50	in a blender
+T4	TIME 51 118	until the mixture has the consistency of a smoothie, about 1 minute
+T5	VERB 120 124	Stir
+T6	HOW 125 133	together
+T7	WHAT 134 163	the oats, coconut, and pecans
+T8	WHERE 164 179	in a large bowl
+T9	VERB 181 188	Stir in
+T10	WHAT 189 246	the blueberry mixture, yogurt, and the remaining soy milk
+T11	VERB 248 253	Cover
+T12	VERB 255 266	refrigerate
+T13	TIME 271 306	at least 4 hours or up to overnight

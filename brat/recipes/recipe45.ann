@@ -1,0 +1,37 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 9	oven
+T3	TEMP 13 17	375F
+T4	VERB 19 24	Place
+T5	WHAT 25 42	paper baking cups
+T6	WHERE 43 66	into 12 muffin pan cups
+T7	VERB 68 77	set aside
+T8	VERB 79 86	Combine
+T9	WHAT 87 147	flour, baking powder, baking soda, salt, cinnamon and ginger
+T10	WHERE 148 155	in bowl
+T11	VERB 157 166	set aside
+T12	VERB 168 175	Combine
+T13	WHAT 176 198	brown sugar and butter
+T14	WHERE 199 214	in another bowl
+T15	VERB 216 220	beat
+T16	HOW 221 241	at medium-high speed
+T17	TIME 242 254	until smooth
+T18	VERB 256 259	Add
+T19	WHAT 260 299	bananas, eggs, lime juice and lime zest
+T20	VERB 301 305	Beat
+T21	HOW 306 342	at medium speed, scraping bowl often
+T22	TIME 344 356	until smooth
+T23	VERB 358 362	Stir
+T24	WHAT 363 376	flour mixture
+T25	TIME 377 393	until well mixed
+T26	VERB 395 400	Spoon
+T27	WHAT 401 407	batter
+T28	WHERE 408 437	into prepared muffin pan cups
+T29	VERB 439 447	sprinkle
+T30	WHAT 448 452	tops
+T31	HOW 453 465	with coconut
+T32	VERB 467 471	Bake
+T33	TIME 472 539	22-27 minutes or until toothpick inserted in center comes out clean
+T34	VERB 541 547	Remove
+T35	WHERE 548 572	from pan to cooling rack
+T36	VERB 574 578	cool
+T37	HOW 579 589	completely

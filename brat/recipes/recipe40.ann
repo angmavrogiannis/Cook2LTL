@@ -1,0 +1,42 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 20	350F
+T4	VERB 25 29	line
+T5	WHAT 30 42	baking sheet
+T6	HOW 43 63	with parchment paper
+T7	VERB 65 72	Combine
+T8	WHAT 73 103	flour, oats, sugar and parsley
+T9	WHERE 105 121	In separate bowl
+T10	VERB 123 130	combine
+T11	WHAT 131 157	egg, oil, apple and carrot
+T12	VERB 159 163	Stir
+T13	WHAT 164 177	flour mixture
+T14	WHERE 178 194	into egg mixture
+T15	HOW 196 228	slowly adding water and kneading
+T16	TIME 229 248	until a dough forms
+T17	VERB 275 278	add
+T18	WHAT 279 289	more flour
+T19	VERB 291 295	Roll
+T20	WHAT 296 301	dough
+T21	WHERE 306 334	on a lightly floured surface
+T22	VERB 369 374	Knead
+T23	WHAT 375 381	scraps
+T24	HOW 382 390	together
+T25	VERB 392 400	roll out
+T26	VERB 402 409	cut out
+T27	WHAT 410 416	shapes
+T28	VERB 422 428	repeat
+T29	TIME 429 452	until all dough is used
+T30	VERB 454 459	Place
+T31	WHERE 460 475	on baking sheet
+T32	VERB 480 484	bake
+T33	TIME 485 502	for 40-45 minutes
+T34	VERB 504 508	Turn
+T35	WHAT 509 513	oven
+T36	VERB 522 527	leave
+T37	WHERE 528 535	in oven
+T38	TIME 536 550	for 20 minutes
+T39	HOW 514 517	off
+T40	HOW 335 348	to 1/4" thick
+T41	VERB 353 360	cut out
+T42	WHAT 361 367	shapes

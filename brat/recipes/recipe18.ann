@@ -1,0 +1,40 @@
+T1	VERB 0 4	Pour
+T2	WHAT 5 13	marinade
+T3	WHERE 14 50	over steak in resealable plastic bag
+T4	VERB 52 56	Seal
+T5	WHAT 57 60	bag
+T6	VERB 62 66	turn
+T7	WHAT 82 87	steak
+T8	HOW 88 101	with dressing
+T9	VERB 77 81	coat
+T10	VERB 103 114	Refrigerate
+T11	TIME 115 130	at least 30 min
+T12	TIME 145 154	Meanwhile
+T13	VERB 156 163	preheat
+T14	WHAT 164 169	grill
+T15	TEMP 173 184	medium heat
+T16	VERB 186 192	Remove
+T17	WHAT 193 198	steak
+T18	WHERE 199 212	from marinade
+T19	VERB 214 221	discard
+T20	WHAT 222 238	bag and marinade
+T21	VERB 240 245	Grill
+T22	WHAT 246 251	steak
+T23	TIME 252 290	13 to 16 min. or until medium doneness
+T24	TEMP 291 297	(160F)
+T25	HOW 299 319	turning occasionally
+T26	TIME 321 330	Meanwhile
+T27	VERB 332 337	steam
+T28	WHAT 338 347	asparagus
+T29	TIME 348 382	8 to 10 min. or until crisp-tender
+T30	VERB 384 387	Cut
+T31	WHAT 388 393	steak
+T32	HOW 394 410	into thin strips
+T33	VERB 412 417	Place
+T34	WHAT 418 466	1 to 2 steak strips and about 2 asparagus spears
+T35	WHERE 467 489	on each tortilla strip
+T36	VERB 491 498	roll up
+T37	VERB 500 506	Secure
+T38	HOW 507 554	with frilled toothpicks or red bell pepper ties
+T39	VERB 568 573	Serve
+T41	TEMP 574 578	warm

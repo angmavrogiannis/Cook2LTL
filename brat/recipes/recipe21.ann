@@ -1,0 +1,51 @@
+T1	VERB 0 7	preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 29	350 degrees F
+T4	VERB 55 59	line
+T5	HOW 129 160	having the foil go up the sides
+T6	VERB 162 167	spray
+T7	WHAT 168 172	foil
+T8	HOW 173 190	with cooking sray
+T9	VERB 191 196	cover
+T10	WHAT 197 227	the bottom of the cookie sheet
+T11	HOW 228 278	with a single layer of soda crackers, salt side up
+T12	VERB 345 348	set
+T13	WHAT 349 366	cracker lined pan
+T14	WHERE 367 372	aside
+T15	VERB 373 380	combine
+T16	WHAT 381 412	butter, white sugar and vanilla
+T17	WHERE 413 433	in a heavy sauce pan
+T18	VERB 435 440	bring
+T19	HOW 478 497	stirring constantly
+T20	TEMP 446 477	full boil over medium high heat
+T21	VERB 573 577	boil
+T22	WHAT 578 580	it
+T23	TIME 585 602	exactly 5 minutes
+T24	TIME 604 637	stirring constantly when times up
+T25	VERB 639 643	pour
+T26	WHAT 644 651	mixture
+T27	HOW 652 661	carefully
+T28	WHERE 662 684	over the soda crackers
+T29	HOW 685 705	as evenly as you can
+T30	VERB 707 715	sprinkle
+T31	WHAT 716 737	the salted nut pieces
+T32	WHERE 738 750	over the top
+T33	VERB 752 757	slide
+T34	WHAT 758 765	the pan
+T35	WHERE 766 779	into the oven
+T36	VERB 783 787	bake
+T37	TIME 788 802	for 10 minutes
+T38	VERB 804 810	remove
+T39	WHAT 811 818	the pan
+T40	WHERE 819 832	from the oven
+T41	VERB 837 840	let
+T42	WHAT 841 843	it
+T43	WHERE 849 863	on a wire rack
+T44	TEMP 844 848	cool
+T45	TIME 865 901	when cookies have cooled all the way
+T46	VERB 903 911	peel off
+T47	VERB 933 938	break
+T48	HOW 939 962	into ramdom size pieces
+T49	WHAT 912 928	the foil backing
+T50	WHERE 30 53	rack in middle position
+T51	WHAT 60 99	a 10 x 15" cookie sheet with heavy foil

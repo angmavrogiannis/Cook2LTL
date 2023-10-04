@@ -1,0 +1,55 @@
+T1	VERB 0 5	Saute
+T2	WHAT 10 33	onions, carrots, celery
+T3	HOW 34 86	with olive oil by gradually adding half cup of water
+T4	TIME 87 97	until soft
+T5	VERB 99 102	Add
+T6	WHERE 103 122	to the saute onions
+T7	WHAT 124 161	diced tomatoes, hot red pepper powder
+T8	VERB 166 170	stir
+T9	TIME 175 187	five minutes
+T10	VERB 189 192	add
+T11	WHAT 193 208	3 cups of water
+T12	VERB 210 215	leave
+T13	TEMP 222 226	boil
+T14	VERB 228 233	Rinse
+T15	WHAT 238 245	lentils
+T16	HOW 246 261	with cold water
+T17	WHERE 263 283	To the boiling sauce
+T18	VERB 285 288	add
+T19	WHAT 289 356	lentils, ginger juice, white pepper and two cups of vegetable broth
+T20	VERB 358 364	reduce
+T21	WHAT 369 373	heat
+T22	TEMP 377 383	medium
+T23	VERB 385 389	cook
+T24	TIME 394 439	30 minutes or until the lentils are very soft
+T25	HOW 441 462	Using a cooking stick
+T26	VERB 464 469	puree
+T27	VERB 474 478	soup
+T28	WHERE 479 489	in its pot
+T29	VERB 493 501	transfer
+T30	WHERE 502 521	to a food processor
+T31	VERB 523 528	blend
+T32	WHAT 533 540	lentils
+T33	TIME 541 553	until smooth
+T34	VERB 559 564	bring
+T35	WHERE 568 588	back to its saucepan
+T36	VERB 590 593	Add
+T37	WHAT 594 634	the rest of the vegetable broth or water
+T38	TIME 644 648	then
+T39	VERB 665 669	stir
+T40	WHAT 670 678	the soup
+T41	TIME 683 693	10 minutes
+T42	TEMP 654 664	lower heat
+T43	VERB 695 698	Add
+T44	WHAT 699 720	salt and black pepper
+T45	VERB 722 728	Remove
+T46	WHERE 729 738	from heat
+T47	VERB 740 747	Garnish
+T48	HOW 751 801	with fresh parsley, basil or cheese of your choice
+T49	WHAT 748 750	it
+T50	VERB 803 808	Serve
+T51	WHAT 809 811	it
+T52	TEMP 812 823	hot or cold
+T53	VERB 825 829	Keep
+T54	WHAT 830 832	it
+T55	WHERE 833 846	in the fridge

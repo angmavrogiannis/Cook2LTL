@@ -1,0 +1,82 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 9	oven
+T3	TEMP 13 16	350
+T4	VERB 18 22	Line
+T5	WHAT 23 49	an 8" square pan with foil
+T6	VERB 51 54	Let
+T7	WHAT 55 59	ends
+T8	VERB 60 66	extend
+T9	WHERE 67 87	above pan on 2 sides
+T10	VERB 89 95	Grease
+T11	WHAT 96 100	foil
+T12	WHERE 101 107	in pan
+T13	VERB 120 127	Process
+T14	WHAT 128 143	toasted almonds
+T15	WHERE 144 183	in a blender or possibly food processor
+T16	HOW 184 207	using the on/off button
+T17	TIME 208 231	just till finely minced
+T18	VERB 233 239	Add in
+T19	WHAT 240 256	sugar and butter
+T20	VERB 261 268	process
+T21	HOW 269 275	on/off
+T22	TIME 276 291	till well mixed
+T23	VERB 293 298	Press
+T24	WHAT 299 302	mix
+T25	HOW 303 318	proportionately
+T26	WHERE 319 356	over the bottom of the foil lined pan
+T27	VERB 371 375	Heat
+T28	WHAT 376 382	butter
+T29	WHERE 383 422	in the microwave or possibly a saucepan
+T30	TEMP 423 436	over low heat
+T31	VERB 448 454	add in
+T32	WHAT 455 474	the white chocolate
+T33	VERB 479 488	let stand
+T34	TIME 489 494	2 min
+T35	WHERE 438 446	Off heat
+T36	VERB 496 501	Whisk
+T37	TIME 502 513	till smooth
+T38	TIME 515 524	Meanwhile
+T39	VERB 525 529	beat
+T40	WHAT 530 573	the Large eggs, both sugars and baking pwdr
+T41	WHERE 574 590	in a medium bowl
+T42	HOW 591 627	with an electric mixer on high speed
+T43	TIME 628 661	till pale and fluffy, about 2 min
+T44	VERB 663 670	Beat in
+T45	WHAT 671 722	cooled white chocolate, the lemon peel and extracts
+T46	VERB 724 731	Stir in
+T47	WHAT 732 737	flour
+T48	TIME 738 755	just till blended
+T49	VERB 757 763	Spread
+T50	WHAT 764 770	batter
+T51	HOW 771 776	evely
+T52	WHERE 777 791	over the crust
+T53	VERB 793 801	Sprinkle
+T54	HOW 802 854	with slivered almonds, patting almonds down slightly
+T55	WHERE 855 866	into batter
+T56	VERB 868 872	Bake
+T57	TIME 873 949	30 to 35 min till a pick inserted in the center comes out with a moist crumb
+T58	VERB 951 955	Cold
+T59	WHERE 956 975	in pan on wire rack
+T60	VERB 977 981	Lift
+T61	WHAT 982 986	foil
+T62	HOW 987 994	by ends
+T63	WHERE 995 1015	onto a cutting board
+T64	VERB 1017 1020	Cut
+T65	WHAT 1021 1029	brownies
+T66	HOW 1030 1044	into 9 squares
+T67	VERB 1046 1049	Cut
+T68	WHAT 1050 1061	each square
+T69	HOW 1062 1080	in half diagonally
+T70	VERB 1093 1098	Toast
+T71	WHAT 1099 1106	Almonds
+T72	VERB 1108 1114	Spread
+T73	WHERE 1115 1131	in a shallow pan
+T74	VERB 1136 1140	bake
+T75	TEMP 1146 1149	350
+T76	WHERE 1150 1154	oven
+T77	TIME 1155 1165	for 10 min
+T78	HOW 1167 1198	stirring once or possibly twice
+T79	TIME 1200 1220	till lightly browned
+T80	VERB 1222 1230	Let cold
+T81	HOW 1231 1241	completely
+T82	TIME 1242 1257	before chopping

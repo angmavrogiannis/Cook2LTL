@@ -1,0 +1,93 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 12 16	oven
+T3	TEMP 17 30	325 degrees F
+T4	VERB 32 38	Butter
+T5	WHAT 39 81	an 8-by-8-inch square glass casserole dish
+T6	VERB 83 88	Halve
+T7	HOW 99 109	lengthwise
+T8	WHAT 89 98	the leeks
+T9	TIME 115 119	then
+T10	VERB 120 123	cut
+T11	WHAT 124 128	them
+T12	HOW 129 156	crosswise into half circles
+T13	VERB 194 197	Put
+T14	WHAT 198 211	the cut leeks
+T15	VERB 279 283	fill
+T16	HOW 284 294	with water
+T17	WHERE 212 273	in the basket of a salad spinner, or a colander set in a bowl
+T18	VERB 296 301	Swish
+T19	WHAT 302 311	the leeks
+T20	WHERE 312 318	around
+T21	VERB 342 346	Lift
+T22	WHAT 347 357	the basket
+T23	VERB 370 380	don't pour
+T24	WHERE 358 368	from water
+T25	WHAT 381 390	the water
+T26	WHERE 391 394	off
+T27	VERB 448 452	Heat
+T28	WHAT 453 469	a medium skillet
+T29	TEMP 475 486	medium heat
+T30	VERB 491 494	fry
+T31	WHAT 495 504	the bacon
+T32	TIME 505 534	until crispy, about 5 minutes
+T33	VERB 536 544	Transfer
+T34	WHAT 545 554	the bacon
+T35	WHERE 555 583	to a paper towel-lined plate
+T36	TEMP 587 592	cool,
+T37	TIME 593 597	then
+T38	VERB 598 605	crumble
+T39	VERB 607 614	Discard
+T40	WHAT 615 656	all but 1 tablespoon of the pan drippings
+T41	VERB 658 661	add
+T42	WHAT 666 682	butter and leeks
+T43	VERB 688 694	season
+T44	HOW 695 733	with 1/2 teaspoon salt and some pepper
+T45	VERB 735 739	Cook
+T46	TIME 740 770	until tender, about 10 minutes
+T47	TIME 772 781	Meanwhile
+T48	VERB 783 786	put
+T49	WHAT 787 799	the potatoes
+T50	WHERE 800 819	in a small saucepan
+T51	HOW 820 881	with the garlic, thyme, and 1 1/2 teaspoons of salt and water
+T52	VERB 893 898	Bring
+T53	TEMP 904 923	boil over high heat
+T54	TIME 925 929	then
+T55	VERB 930 935	drain
+T56	VERB 937 944	Discard
+T57	WHAT 945 965	the thyme and garlic
+T58	VERB 970 973	add
+T59	WHAT 974 982	potatoes
+T60	WHERE 983 995	to the leeks
+T61	WHERE 997 1013	In a medium bowl
+T62	VERB 1014 1019	whisk
+T63	HOW 1020 1028	together
+T64	WHAT 1029 1055	the eggs and half-and-half
+T65	TIME 1057 1061	then
+T66	VERB 1062 1069	stir in
+T67	WHAT 1070 1130	the leek mixture, 1 cup of the cheese, the bacon, and nutmeg
+T68	VERB 1132 1138	Season
+T69	HOW 1139 1178	with 1 teaspoon of salt and some pepper
+T70	VERB 1180 1188	Transfer
+T71	WHAT 1189 1200	the mixture
+T72	WHERE 1201 1221	to the prepared dish
+T73	VERB 1223 1228	cover
+T74	HOW 1229 1238	with foil
+T75	VERB 1243 1247	bake
+T76	TIME 1248 1296	until just set but still moist, about 55 minutes
+T77	VERB 1298 1304	Remove
+T78	WHERE 1305 1318	from the oven
+T79	VERB 1323 1332	set aside
+T80	VERB 1334 1342	Position
+T81	WHAT 1343 1349	a rack
+T82	WHERE 1350 1379	in the upper part of the oven
+T83	VERB 1384 1391	preheat
+T84	WHAT 1396 1403	broiler
+T85	VERB 1405 1412	Scatter
+T86	WHAT 1413 1439	the remaining 1 cup cheese
+T87	WHERE 1440 1458	over the casserole
+T88	VERB 1463 1468	broil
+T89	TIME 1469 1509	until the cheese browns, about 3 minutes
+T90	VERB 1511 1520	Set aside
+T91	TIME 1521 1555	for 5 to 10 minutes before serving
+T92	VERB 1557 1572	Unmold or serve
+T93	WHERE 1573 1589	from baking dish

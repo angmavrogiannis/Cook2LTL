@@ -1,0 +1,9 @@
+T1	VERB 0 3	Put
+T2	WHAT 4 15	ingredients
+T3	WHERE 16 49	in a buttered 9 x 12 x 2-inch pan
+T4	HOW 50 97	in even layers in the order that they are given
+T5	VERB 100 110	DO NOT MIX
+T6	VERB 112 116	Bake
+T7	WHERE 126 130	oven
+T8	TIME 131 141	for 1 hour
+T9	TEMP 122 125	350

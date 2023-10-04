@@ -1,0 +1,18 @@
+T1	VERB 0 4	Peel
+T2	VERB 22 29	quarter
+T3	WHAT 5 17	the potatoes
+T4	VERB 31 34	Add
+T5	WHAT 35 50	all ingredients
+T6	WHERE 51 71	to a medium saucepan
+T7	VERB 76 82	simmer
+T8	TIME 83 112	until the potatoes are tender
+T9	VERB 114 120	Remove
+T10	WHAT 121 129	potatoes
+T11	WHERE 130 149	from cooking liquid
+T12	VERB 154 158	mash
+T19	HOW 159 181	to desired consistency
+T20	VERB 209 212	Add
+T21	WHAT 213 269	a few spoonfuls of the cooking liquid and the sour cream
+T22	VERB 274 281	combine
+T23	VERB 283 288	Serve
+T24	HOW 289 309	as a side with steak

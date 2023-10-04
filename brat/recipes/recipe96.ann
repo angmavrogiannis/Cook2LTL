@@ -1,0 +1,26 @@
+T1	VERB 0 5	Saute
+T2	WHAT 6 20	chopped garlic
+T3	WHERE 21 48	in the butter and olive oil
+T4	VERB 50 53	add
+T5	WHAT 54 63	mushrooms
+T6	TIME 64 81	until mostly soft
+T7	VERB 83 100	Set aside to cool
+T8	TIME 102 113	When cooled
+T9	VERB 115 124	drain off
+T10	WHAT 125 137	extra liquid
+T11	VERB 139 142	Mix
+T12	WHAT 143 255	soup, milk, pepper, 1/2 of the crumbled bacon, sauteed mushrooms, green beans and 1 1/3 cups French Fried Onions
+T13	WHERE 256 271	in a large bowl
+T14	VERB 273 281	Transfer
+T15	WHERE 282 304	into large baking dish
+T16	VERB 309 315	spread
+T17	HOW 316 331	into even layer
+T18	VERB 333 337	Bake
+T19	TEMP 338 345	at 350F
+T20	TIME 346 372	for 40 minute or until hot
+T21	VERB 374 378	Stir
+T22	TIME 383 387	then
+T23	VERB 388 391	top
+T24	HOW 392 433	with remaining 1 1/3 cup onions and bacon
+T25	VERB 435 439	Bake
+T26	TIME 440 472	5 minute until onions are golden

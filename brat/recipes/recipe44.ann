@@ -1,0 +1,36 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 27	350 degrees
+T4	VERB 29 34	Place
+T5	WHAT 35 43	potatoes
+T6	WHERE 44 55	in saucepan
+T7	VERB 60 65	cover
+T8	HOW 66 76	with water
+T9	VERB 78 83	Bring
+T10	TEMP 89 93	boil
+T11	VERB 95 101	Reduce
+T12	WHAT 102 106	heat
+T13	VERB 108 122	cover and cook
+T14	TIME 123 152	15-20 minutes or until tender
+T15	WHERE 154 170	In small skillet
+T16	VERB 171 176	saute
+T17	WHAT 177 183	garlic
+T18	WHERE 184 193	in butter
+T19	VERB 195 200	Drain
+T20	WHAT 201 209	potatoes
+T21	VERB 214 219	place
+T22	WHERE 220 240	in large mixing bowl
+T23	VERB 242 245	add
+T24	WHAT 246 252	garlic
+T25	VERB 254 258	Beat
+T26	TIME 259 271	until smooth
+T27	VERB 273 276	Add
+T28	WHAT 277 298	remaining ingredients
+T29	VERB 300 303	mix
+T30	HOW 304 308	well
+T31	VERB 310 318	Transfer
+T32	WHERE 319 349	to greased 2 quart baking dish
+T33	VERB 351 355	Bake
+T34	HOW 356 365	uncovered
+T35	TEMP 366 380	at 350 degrees
+T36	TIME 381 422	for 30-40 minutes or until heated through

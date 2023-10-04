@@ -1,0 +1,84 @@
+T1	VERB 10 17	preheat
+T2	WHAT 18 22	oven
+T3	TEMP 26 29	450
+T4	VERB 31 44	Peel and dice
+T5	WHAT 45 51	squash
+T6	HOW 52 72	into 1/2 inch pieces
+T7	VERB 91 95	Dice
+T8	WHAT 96 101	onion
+T9	HOW 102 122	into 1/2 inch pieces
+T10	VERB 124 128	Toss
+T11	WHAT 129 145	squash and onion
+T12	HOW 146 160	with olive oil
+T13	VERB 165 171	spread
+T14	WHAT 172 178	pieces
+T15	WHERE 179 207	onto a large flat baking pan
+T16	VERB 209 215	Season
+T17	HOW 216 236	with salt and pepper
+T18	VERB 238 243	Roast
+T19	TIME 248 258	20 minutes
+T20	VERB 261 264	add
+T21	WHAT 265 276	diced apple
+T22	VERB 283 300	continue roasting
+T23	TIME 301 350	another 10-20 minutes (30-40 total roasting time)
+T24	TIME 357 379	while you are roasting
+T25	VERB 381 385	make
+T26	WHAT 386 406	some "cheese toasts"
+T27	VERB 408 411	Put
+T28	WHAT 412 432	some shredded cheese
+T29	WHERE 433 455	on top of bread rounds
+T30	WHAT 465 484	gruyere or parmesan
+T31	VERB 460 464	like
+T32	VERB 487 491	Bake
+T33	TIME 492 518	10-15 minutes until crispy
+T34	VERB 74 77	see
+T35	WHAT 78 81	tip
+T36	WHERE 82 88	at end
+T37	VERB 568 573	Place
+T38	WHAT 574 589	roasted mixture
+T39	WHERE 590 602	into blender
+T40	HOW 603 636	with about half the chicken broth
+T41	VERB 638 643	puree
+T42	VERB 645 649	keep
+T43	WHAT 650 654	hand
+T44	WHERE 655 661	on lid
+T45	VERB 739 742	Add
+T46	WHAT 743 792	remaining chicken broth, half-and-half, and herbs
+T47	VERB 794 799	puree
+T48	VERB 801 809	Transfer
+T49	WHAT 810 817	mixture
+T50	WHERE 818 829	to saucepan
+T51	VERB 831 837	reheat
+T52	HOW 838 844	gently
+T53	VERB 846 851	Serve
+T54	HOW 852 892	with a dollop of sour cream and croutons
+T55	VERB 902 909	prepare
+T56	WHAT 910 916	squash
+T57	TIME 918 923	first
+T58	VERB 924 927	cut
+T59	WHAT 928 934	squash
+T60	HOW 935 955	in half horizontally
+T61	VERB 957 962	Place
+T62	WHAT 963 971	flat end
+T63	WHERE 972 990	onto cutting board
+T64	VERB 1015 1018	use
+T65	WHAT 1019 1027	a peeler
+T66	VERB 1044 1050	Remove
+T67	WHAT 1051 1056	seeds
+T68	TIME 1058 1062	Then
+T69	VERB 1063 1066	cut
+T70	HOW 1067 1079	into lengths
+T71	TIME 1085 1089	then
+T72	HOW 1090 1107	into diced pieces
+T73	VERB 1122 1126	have
+T74	WHAT 1127 1151	leftover mashed potatoes
+T75	VERB 1171 1174	add
+T76	WHAT 1175 1188	about 1/2 cup
+T77	VERB 1201 1208	thicken
+T78	WHAT 1209 1217	the soup
+T79	VERB 1222 1225	add
+T80	WHAT 1226 1243	a nice smoothness
+T81	VERB 994 1003	stabilize
+T82	WHAT 1004 1010	squash
+T83	VERB 1031 1037	remove
+T84	WHAT 1038 1042	skin

@@ -1,0 +1,18 @@
+T1	VERB 0 5	Bring
+T2	WHAT 6 28	water, juice and sugar
+T3	TEMP 36 40	boil
+T4	WHERE 41 54	in a saucepan
+T5	VERB 56 62	Simmer
+T6	TIME 63 104	for 2-3 minutes until sugar has dissolved
+T7	VERB 106 109	Add
+T8	WHAT 110 141	dried fruits and cinnamon stick
+T9	VERB 143 149	simmer
+T10	TIME 152 169	further 5 minutes
+T11	VERB 171 176	Whisk
+T12	HOW 177 185	together
+T13	WHAT 186 213	the Philly*, milk and honey
+T14	TIME 214 226	until smooth
+T15	VERB 228 233	Serve
+T16	WHAT 234 240	fruits
+T17	TEMP 241 245	warm
+T18	HOW 246 284	with Philly* cream and toasted almonds

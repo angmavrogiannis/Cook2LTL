@@ -1,0 +1,11 @@
+T1	VERB 0 6	Simmer
+T2	WHAT 7 42	everything except the mango and oil
+T3	TIME 44 55	until thick
+T4	VERB 57 61	Pour
+T5	WHERE 62 77	over the mangos
+T6	VERB 79 82	Add
+T7	WHAT 83 90	the oil
+T8	VERB 95 98	mix
+T9	HOW 99 103	well
+T10	VERB 105 125	Cool and refrigerate
+T11	TIME 126 143	at least 12 hours

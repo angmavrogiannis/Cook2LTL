@@ -1,0 +1,12 @@
+T1	VERB 0 3	Mix
+T2	WHAT 4 19	all ingredients
+T3	VERB 24 28	pour
+T4	WHERE 29 57	into a one quart baking dish
+T5	VERB 59 63	Bake
+T6	TIME 75 85	20 minutes
+T7	TEMP 64 70	at 350
+T8	VERB 87 90	Top
+T9	HOW 91 124	with the remaining 1/2 cup cheese
+T10	VERB 129 137	continue
+T11	HOW 138 144	baking
+T12	TIME 145 159	for 10 minutes

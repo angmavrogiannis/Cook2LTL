@@ -1,0 +1,53 @@
+T1	VERB 0 5	Bring
+T2	WHAT 6 33	a large pot of salted water
+T3	TEMP 39 43	boil
+T4	VERB 45 48	Add
+T5	WHAT 49 64	fettucine pasta
+T6	VERB 69 73	cook
+T7	TIME 74 121	for 8 to 10 minutes or until al dente and drain
+T8	VERB 122 126	Melt
+T9	WHAT 127 133	butter
+T10	WHERE 134 152	in a large skillet
+T11	VERB 157 160	add
+T12	WHAT 161 175	chopped garlic
+T13	VERB 177 181	Cook
+T14	TEMP 182 188	on low
+T15	TIME 189 208	for about 5 minutes
+T16	HOW 210 260	stirring often, making sure not to burn the garlic
+T17	VERB 261 265	Pour
+T18	WHAT 266 298	about 1/4 cup of the heavy cream
+T19	WHERE 299 315	into a small bow
+T20	VERB 317 320	Add
+T21	WHAT 321 333	the egg yolk
+T22	VERB 338 342	beat
+T23	HOW 343 351	together
+T24	VERB 356 359	put
+T25	WHERE 360 365	aside
+T26	VERB 367 371	Pour
+T27	WHAT 372 391	the remaining cream
+T28	WHERE 392 411	into the frying pan
+T29	VERB 413 421	Increase
+T30	WHAT 426 430	heat
+T31	TEMP 434 445	medium-high
+T32	TIME 447 474	As the cream starts to boil
+T33	VERB 476 479	mix
+T34	HOW 480 501	rapidly using a whisk
+T35	HOW 503 509	Slowly
+T36	VERB 510 513	add
+T37	WHAT 514 535	the cream/egg mixture
+T38	VERB 570 586	Continue beating
+T39	WHAT 591 604	cream mixture
+T40	TIME 605 629	until all mixed together
+T41	VERB 631 634	Add
+T42	WHAT 635 659	1 cup of Parmesan cheese
+T43	VERB 664 679	continue to mix
+T44	WHAT 680 689	the cream
+T45	VERB 691 698	Pour in
+T46	WHAT 699 729	remaining Parmesan and parsley
+T47	VERB 734 737	mix
+T48	TIME 738 750	until smooth
+T49	TIME 752 763	Immediately
+T50	VERB 764 770	remove
+T51	WHERE 771 781	from stove
+T52	VERB 783 788	Serve
+T53	WHERE 789 806	over cooked pasta

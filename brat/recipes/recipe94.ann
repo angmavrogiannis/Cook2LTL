@@ -1,0 +1,28 @@
+T1	VERB 0 7	Combine
+T2	WHAT 8 61	peanut butter, Crisco, brown sugar, milk, and vanilla
+T3	WHERE 62 77	in a large bowl
+T4	VERB 79 83	Beat
+T5	HOW 84 99	at medium speed
+T6	TIME 100 118	until well blended
+T7	VERB 120 123	Add
+T8	WHAT 124 127	egg
+T9	VERB 132 136	beat
+T10	TIME 137 155	just until blended
+T11	VERB 157 163	Mix in
+T12	WHAT 164 196	the flour, salt, and baking soda
+T13	HOW 197 209	at low speed
+T14	VERB 214 217	mix
+T15	TIME 218 235	just till blended
+T16	VERB 237 241	Drop
+T17	HOW 242 280	by heaping teaspoonfuls about 2" apart
+T18	WHERE 281 304	onto an ungreased sheet
+T19	VERB 306 313	Flatten
+T20	HOW 314 322	slightly
+T21	HOW 323 373	in crisscross pattern with tines of a floured fork
+T22	VERB 375 379	Bake
+T23	TEMP 380 394	at 375 degrees
+T24	TIME 395 451	for 7-8 minutes or until set and just beginning to brown
+T25	VERB 453 457	Cool
+T26	TIME 458 471	for 2 minutes
+T27	WHERE 472 484	on the sheet
+T28	TIME 485 500	before removing

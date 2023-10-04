@@ -1,0 +1,37 @@
+T1	WHERE 0 9	In a bowl
+T2	VERB 11 14	mix
+T3	WHAT 15 42	flour, baking powder, sugar
+T4	TIME 44 48	then
+T5	VERB 49 52	add
+T6	WHAT 53 95	the sesame seeds, water, and vegetable oil
+T7	VERB 100 105	knead
+T8	TIME 107 131	Once the dough is formed
+T9	VERB 133 137	wrap
+T10	WHERE 138 153	in plastic wrap
+T11	VERB 158 166	let rise
+T12	TIME 171 181	30 minutes
+T13	VERB 183 191	Roll out
+T14	TIME 192 214	until it is 1 cm thick
+T15	TIME 216 220	Then
+T16	VERB 221 224	cut
+T17	HOW 225 258	to 3 cm long and 1 cm wide strips
+T18	VERB 260 263	Use
+T19	WHAT 264 274	your hands
+T20	VERB 275 279	roll
+T21	HOW 280 290	into tubes
+T22	VERB 292 300	Deep fry
+T23	WHERE 309 312	oil
+T24	TIME 313 333	for 10 to 15 minutes
+T25	TEMP 304 308	160C
+T26	WHERE 335 343	In a pan
+T27	VERB 345 352	combine
+T28	WHAT 353 393	the brown sugar, sugar, soy sauce, water
+T29	VERB 398 402	heat
+T30	TIME 403 428	until it starts to bubble
+T31	TIME 430 476	Once the large bubbles change to small bubbles
+T32	VERB 478 481	add
+T33	WHAT 482 501	the Step 5 karintou
+T34	VERB 511 521	Spread out
+T35	WHERE 522 539	on a baking sheet
+T36	VERB 543 550	prevent
+T37	WHAT 551 559	sticking

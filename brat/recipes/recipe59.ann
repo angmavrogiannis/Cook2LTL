@@ -1,0 +1,41 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 12 16	oven
+T3	TEMP 20 31	350 degrees
+T4	WHERE 50 65	in a large bowl
+T5	VERB 67 74	combine
+T6	WHAT 75 152	the potatoes, 1 cup of the sugar, the butter, eggs, vanilla, salt, and spices
+T7	VERB 154 157	Mix
+T8	HOW 158 168	thoroughly
+T9	VERB 170 173	Add
+T10	WHAT 174 182	the milk
+T11	HOW 184 197	stirring well
+T12	VERB 199 203	Pour
+T13	WHAT 204 215	the mixture
+T14	WHERE 216 234	into the pie crust
+T15	VERB 239 243	bake
+T16	TIME 244 321	for 40 to 50 minutes, or until a knife inserted in the center comes out clean
+T17	VERB 323 328	Place
+T18	WHAT 329 336	the pie
+T19	WHERE 337 346	on a rack
+T20	VERB 351 355	cool
+T21	TEMP 356 375	to room temperature
+T22	TIME 376 405	before covering with meringue
+T23	HOW 425 448	using an electric mixer
+T24	VERB 450 454	beat
+T25	WHAT 455 469	the egg whites
+T26	TIME 470 491	until soft peaks form
+T27	VERB 493 500	beat in
+T28	WHAT 501 526	the remaining A cup sugar
+T29	HOW 527 549	1 tablespoon at a time
+T30	VERB 551 567	Continue beating
+T31	TIME 568 642	until the sugar dissolves and the mixture is glossy and stiff, but not dry
+T32	HOW 644 665	With a rubber spatula
+T33	VERB 667 672	spoon
+T34	WHAT 673 685	the meringue
+T35	WHERE 686 698	onto the pie
+T36	HOW 700 713	forming peaks
+T37	VERB 768 776	Sprinkle
+T38	HOW 777 809	with a pinch of granulated sugar
+T39	VERB 811 815	Bake
+T40	TIME 816 864	for 5 to 10 minutes, or until delicately browned
+T41	VERB 866 880	Cool and serve

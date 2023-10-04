@@ -1,0 +1,45 @@
+T1	VERB 0 7	Prehear
+T2	WHAT 8 12	oven
+T3	TEMP 16 29	400 degrees F
+T4	VERB 31 44	Heat and stir
+T5	WHAT 45 51	turkey
+T6	WHERE 52 80	in dressing in large skillet
+T7	TEMP 81 95	on medium heat
+T8	TIME 96 106	until warm
+T9	WHERE 130 144	in a microwave
+T10	VERB 146 153	Stir in
+T11	WHAT 154 173	vegetables and soup
+T12	VERB 178 182	dice
+T13	WHAT 183 191	an onion
+T14	VERB 196 199	use
+T15	WHAT 200 248	frozen peas, carrots, lima beans, and white corn
+T16	VERB 250 255	Spoon
+T17	WHERE 256 294	into greased 9-inch square baking dish
+T18	VERB 296 299	top
+T19	HOW 300 311	with cheese
+T20	VERB 313 319	Unfold
+T21	WHAT 320 332	pastry sheet
+T22	VERB 334 339	place
+T23	WHERE 340 359	over turkey mixture
+T24	VERB 361 365	Fold
+T25	WHERE 366 387	under edges of pastry
+T26	VERB 389 394	press
+T27	WHERE 395 418	onto top of baking dish
+T28	WHAT 422 426	seal
+T29	VERB 428 433	Brush
+T30	WHAT 434 440	pastry
+T31	HOW 441 449	with egg
+T32	VERB 451 454	Cut
+T33	WHAT 455 468	several slits
+T34	WHERE 469 478	in pastry
+T35	VERB 482 487	allow
+T36	WHAT 488 493	steam
+T37	VERB 497 503	escape
+T38	VERB 505 508	Put
+T39	WHAT 509 523	casserole dish
+T40	WHERE 524 539	on baking sheet
+T41	VERB 562 566	Bake
+T42	TIME 567 612	30 minute or until crust is deep golden brown
+T43	VERB 614 623	Let stand
+T44	TIME 624 647	5 minute before serving
+T45	HOW 648 663	allowing to set

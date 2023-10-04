@@ -1,0 +1,68 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 27	350 degrees
+T4	WHERE 29 48	In a small saucepan
+T5	VERB 49 52	mix
+T6	WHAT 53 82	the cornstarch and cold water
+T7	HOW 83 93	thoroughly
+T8	VERB 95 98	Add
+T9	WHAT 99 112	boiling water
+T10	WHERE 113 130	to cornstarch mix
+T11	VERB 135 139	heat
+T12	TEMP 140 167	to a boil over low-med heat
+T13	VERB 169 173	Stir
+T14	TIME 174 184	constantly
+T15	TIME 186 202	When it thickens
+T16	VERB 204 212	take off
+T17	WHAT 213 217	heat
+T18	VERB 222 227	place
+T19	WHAT 228 231	pan
+T20	WHERE 232 245	in cool water
+T21	TEMP 249 253	cool
+T22	TIME 282 299	BEFORE you add it
+T23	TEMP 265 281	room temperature
+T24	VERB 301 304	Let
+T25	WHAT 305 309	this
+T26	TIME 315 344	while starting the next steps
+T27	VERB 346 354	Separate
+T28	WHAT 355 367	3 egg whites
+T29	VERB 462 467	place
+T30	WHERE 468 484	in a mixing bowl
+T31	VERB 486 489	Add
+T32	WHAT 490 512	lemon juice or vanilla
+T33	VERB 514 518	beat
+T34	TIME 519 554	until is stands in soft white peaks
+T35	VERB 576 585	don't cut
+T36	WHAT 586 597	the beating
+T37	HOW 598 603	short
+T38	VERB 605 608	Add
+T39	WHAT 609 614	sugar
+T40	HOW 615 632	ONE Tbs at a time
+T41	VERB 634 638	beat
+T42	WHAT 655 667	the meringue
+T43	TIME 668 711	after EACH individual Tbs of sugar is added
+T44	VERB 713 725	Keep beating
+T45	TIME 726 769	until meringue is glossy and has firm peaks
+T46	VERB 830 834	Take
+T47	WHAT 835 872	your saucepan with the cornstarch mix
+T48	VERB 915 923	spoon in
+T49	WHAT 924 938	all of the mix
+T50	HOW 939 946	at once
+T51	WHERE 947 962	to the meringue
+T52	VERB 964 969	blend
+T53	HOW 970 974	well
+T55	TIME 1011 1036	starting around the crust
+T56	VERB 1037 1040	add
+T57	WHAT 1041 1049	meringue
+T58	HOW 1050 1066	in BIG spoonfuls
+T59	VERB 1068 1073	press
+T60	HOW 1074 1080	firmly
+T61	TIME 1081 1089	at first
+T62	TIME 1197 1246	When meringue has totally covered the pie filling
+T63	VERB 1248 1252	make
+T64	WHAT 1253 1265	little peaks
+T65	HOW 1266 1278	with a spoon
+T66	VERB 1295 1299	Bake
+T67	TIME 1304 1320	about 15 minutes
+T68	VERB 1395 1398	Use
+T69	WHAT 1401 1410	toothpick

@@ -1,0 +1,62 @@
+T1	VERB 0 13	Wash and boil
+T2	WHAT 14 30	the corn kernels
+T3	VERB 34 37	get
+T4	WHAT 38 57	a tinned boiled one
+T5	WHERE 58 81	from your grocery store
+T6	VERB 83 87	Wash
+T7	WHAT 88 97	mushrooms
+T8	VERB 102 108	remove
+T9	WHAT 109 117	the dirt
+T10	HOW 118 124	neatly
+T11	HOW 126 132	Finely
+T12	VERB 133 138	grind
+T13	WHAT 139 158	onions and tomatoes
+T14	HOW 159 171	into a paste
+T15	VERB 173 177	Keep
+T16	WHERE 178 183	aside
+T17	VERB 185 189	Heat
+T18	WHAT 190 198	the dish
+T19	VERB 203 206	put
+T20	WHAT 207 215	some oil
+T21	TIME 217 247	Once you can feel the oil heat
+T22	VERB 249 252	put
+T23	WHAT 253 284	cloves, bay leaf and star anise
+T24	WHERE 285 290	to it
+T25	VERB 292 296	Toss
+T26	WHAT 297 299	it
+T27	HOW 300 305	a bit
+T28	TIME 307 310	Now
+T29	VERB 311 314	add
+T30	WHAT 315 346	the paste of Onion and tomatoes
+T31	VERB 348 351	Add
+T32	WHAT 352 407	some red chilly powder, coriander powder, pepper powder
+T33	WHERE 408 422	to the mixture
+T34	VERB 424 427	Add
+T35	WHAT 428 433	water
+T36	WHERE 434 441	to this
+T37	VERB 446 451	bring
+T38	TEMP 455 462	to boil
+T39	TIME 463 518	until you notice a thin layer of oil come up separately
+T40	VERB 520 523	Add
+T41	WHAT 524 540	half cup of milk
+T42	WHERE 541 548	to this
+T43	TIME 550 553	Now
+T44	VERB 554 557	add
+T45	WHAT 558 599	corn kernels and mushrooms with some salt
+T46	VERB 604 608	boil
+T47	HOW 609 615	closed
+T48	TIME 617 624	Finally
+T49	VERB 625 628	mix
+T50	WHAT 629 638	cornflour
+T51	WHERE 639 662	to quarter cup of water
+T52	VERB 667 670	mix
+T53	WHAT 671 673	it
+T54	HOW 674 687	with the dish
+T55	TIME 689 703	In few minutes
+T56	WHAT 708 713	gravy
+T57	VERB 719 726	thicken
+T58	VERB 728 731	Top
+T59	WHAT 732 734	it
+T60	HOW 735 798	with a spoon of fresh cream and finely chopped coriander leaves
+T61	VERB 800 805	Serve
+T62	TEMP 806 809	hot

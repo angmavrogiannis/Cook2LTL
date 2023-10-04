@@ -1,0 +1,128 @@
+T1	TIME 0 5	First
+T2	VERB 7 11	have
+T3	WHAT 12 36	a very large bowl or pot
+T4	WHERE 37 55	close to stove top
+T5	VERB 63 70	can put
+T6	WHAT 71 82	ingredients
+T7	WHERE 83 85	in
+T8	TIME 86 104	as they are cooked
+T9	TIME 106 112	Second
+T10	VERB 118 122	need
+T11	WHAT 123 143	a good sized fry pan
+T12	HOW 157 182	with deep, straight sides
+T13	TIME 184 189	Third
+T14	WHAT 191 224	a good pair of tongs and spoonula
+T15	TIME 226 232	Fourth
+T16	WHAT 238 253	the ingredients
+T17	VERB 293 300	measure
+T18	TIME 302 307	Fifth
+T19	VERB 319 329	want to do
+T20	WHAT 330 338	the prep
+T21	TIME 339 344	ahead
+T22	VERB 351 379	to be able to cook and stuff
+T23	WHAT 380 383	all
+T24	HOW 384 391	at once
+T25	VERB 412 415	use
+T26	WHAT 416 432	just ground pork
+T27	WHAT 441 448	sausage
+T28	VERB 449 454	gives
+T29	WHAT 455 469	a better taste
+T30	VERB 471 475	Heat
+T31	WHAT 476 483	fry pan
+T32	VERB 488 491	oil
+T33	HOW 492 520	lightly with a pat of butter
+T34	VERB 522 525	Fry
+T35	HOW 559 567	together
+T36	WHAT 526 558	1/2 the beef and 1/2 the sausage
+T37	VERB 569 587	Make sure to break
+T38	WHAT 588 594	it all
+T39	VERB 602 605	mix
+T40	WHAT 606 608	it
+T41	HOW 609 613	well
+T42	TIME 614 633	until all is cooked
+T43	VERB 635 639	Dump
+T44	WHAT 640 646	it all
+T45	WHERE 595 597	up
+T46	WHERE 647 664	into the pot/bowl
+T47	VERB 669 673	have
+T48	WHAT 683 697	Juices and all
+T49	VERB 699 701	Do
+T50	WHAT 702 710	the same
+T51	VERB 748 751	Mix
+T52	HOW 752 762	thoroughly
+T53	VERB 764 768	Melt
+T54	WHAT 769 791	1/4 cup (4 Tbs) butter
+T55	WHERE 792 802	in fry pan
+T56	VERB 807 812	saute
+T57	WHAT 813 823	the celery
+T58	TIME 824 843	until almost cooked
+T59	VERB 845 849	Dump
+T60	WHAT 850 856	it all
+T61	WHERE 857 874	into the pot/bowl
+T62	VERB 879 882	mix
+T63	HOW 883 893	thoroughly
+T64	VERB 895 899	Melt
+T65	WHAT 900 922	1/4 cup (4 Tbs) butter
+T66	WHERE 923 933	in fry pan
+T67	VERB 938 943	saute
+T68	WHAT 944 953	the onion
+T69	TIME 954 981	until wilted, but not brown
+T70	VERB 983 987	Dump
+T71	WHAT 988 991	all
+T72	WHERE 992 1009	into the pot/bowl
+T73	VERB 1014 1017	mix
+T74	HOW 1018 1028	thoroughly
+T75	VERB 1030 1033	Add
+T76	WHAT 1034 1044	seasonings
+T77	TIME 1045 1058	at this point
+T78	VERB 1060 1063	Use
+T79	WHAT 1064 1097	the amount that is to your liking
+T80	VERB 1099 1102	Mix
+T81	HOW 1103 1112	very well
+T82	VERB 1149 1153	melt
+T83	WHAT 1154 1165	more butter
+T84	WHERE 1166 1180	in the fry pan
+T85	VERB 1185 1188	add
+T86	WHERE 1189 1199	to the mix
+T87	TIME 1201 1208	Finally
+T88	VERB 1210 1213	add
+T89	WHAT 1214 1235	the 1 box of croutons
+T90	VERB 1240 1243	mix
+T91	TIME 1244 1285	several times over the next 15-20 minutes
+T92	WHERE 1323 1352	in the bottom of the pot/bowl
+T93	TIME 1353 1368	after this time
+T94	VERB 1416 1419	add
+T95	WHAT 1420 1433	more croutons
+T96	VERB 1438 1444	repeat
+T97	VERB 1454 1457	can
+T98	VERB 1465 1468	put
+T99	WHAT 1469 1481	the stuffing
+T100	WHERE 1482 1530	in a casserole dish, roaster or other baking pan
+T101	VERB 1537 1541	cook
+T102	HOW 1542 1568	separately from the turkey
+T103	VERB 1572 1577	stuff
+T104	WHAT 1578 1587	my turkey
+T105	VERB 1589 1609	both neck and cavity
+T106	TIME 1610 1621	immediately
+T107	TIME 1623 1648	while the stuffing is hot
+T108	VERB 1654 1657	put
+T109	WHAT 1658 1660	it
+T110	WHERE 1661 1674	into the oven
+T111	VERB 1675 1683	to roast
+T112	WHERE 1709 1726	in a separate pan
+T113	VERB 1727 1734	to cook
+T114	WHERE 1735 1756	along side the turkey
+T115	VERB 1765 1768	use
+T116	WHAT 1769 1789	a spearate casserole
+T117	VERB 1790 1800	to do cook
+T118	WHAT 1801 1813	the stuffing
+T119	VERB 1823 1834	want to use
+T120	WHAT 1835 1853	some pan drippings
+T121	VERB 1854 1860	to mix
+T122	WHERE 1861 1879	into the casserole
+T123	VERB 1884 1888	give
+T124	WHAT 1889 1903	it more flavor
+T125	VERB 1918 1923	serve
+T126	WHAT 1924 2024	mashed potatoes, peas, my special turnip/carrot mash, cranberry sauce, and Polish rye or sisal bread
+T127	HOW 1905 1914	With this
+T128	WHAT 2041 2046	gravy

@@ -1,0 +1,38 @@
+T1	VERB 0 7	Combine
+T2	WHAT 8 82	beef, oats, tomato juice, egg, 1 tsp salt, pepper, chili powder, and onion
+T3	WHERE 83 98	in a large bowl
+T4	VERB 100 114	Do not overmix
+T5	VERB 116 120	Pack
+T6	WHERE 121 153	into a 9 inch square baking dish
+T7	VERB 155 159	Bake
+T8	TEMP 160 166	at 350
+T9	TIME 171 181	20 minutes
+T10	VERB 183 188	drain
+T11	WHAT 189 195	juices
+T12	VERB 197 201	Melt
+T13	WHAT 202 208	butter
+T14	TEMP 209 225	over medium heat
+T15	VERB 227 235	whisk in
+T16	WHAT 236 256	flour and 1 tsp salt
+T17	HOW 258 264	Slowly
+T18	VERB 265 268	add
+T19	WHAT 269 273	milk
+T20	TIME 274 288	while whisking
+T21	VERB 290 295	Bring
+T22	TEMP 301 305	boil
+T23	VERB 307 311	Cook
+T24	TIME 312 322	one minute
+T25	VERB 324 327	add
+T26	WHAT 328 334	cheese
+T27	VERB 335 342	Stir in
+T28	WHAT 343 347	corn
+T29	VERB 349 353	Pour
+T30	WHAT 354 361	mixture
+T31	WHERE 362 371	over meat
+T32	VERB 373 376	top
+T33	HOW 377 400	with green pepper rings
+T34	VERB 402 406	Bake
+T35	TIME 407 417	20 minutes
+T36	VERB 419 427	Let cool
+T37	TIME 428 453	10 minutes before cutting
+T38	VERB 455 460	Serve

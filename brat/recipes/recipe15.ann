@@ -1,0 +1,27 @@
+T1	VERB 0 3	Fry
+T2	WHAT 4 23	hamburger and onion
+T3	HOW 24 32	together
+T4	VERB 34 47	Peel and dice
+T5	WHAT 48 56	potatoes
+T6	VERB 58 62	Boil
+T7	TIME 63 73	until soft
+T8	VERB 75 79	Mash
+T9	WHAT 80 88	potatoes
+T10	VERB 90 93	Add
+T11	WHAT 94 98	corn
+T12	WHERE 99 111	to hamburger
+T13	VERB 113 116	Add
+T14	WHAT 117 129	tomato sauce
+T15	WHERE 130 142	to hamburger
+T16	WHERE 144 157	In medium pan
+T17	VERB 158 162	pour
+T18	WHAT 163 180	hamburger mixture
+T19	VERB 182 185	Put
+T20	WHAT 186 201	mashed potatoes
+T21	WHERE 202 221	on top of hamburger
+T22	VERB 223 226	Add
+T23	WHAT 227 240	grated cheese
+T24	VERB 242 246	Bake
+T25	TIME 275 293	until cheese melts
+T26	WHERE 270 274	oven
+T27	TEMP 250 269	350 degree (175 C.)

@@ -1,0 +1,52 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 8	oil
+T3	WHERE 9 31	in heavy large skillet
+T4	TEMP 32 53	over medium-high heat
+T5	VERB 55 58	Add
+T6	WHAT 59 78	shallots and ginger
+T7	VERB 83 88	saute
+T8	TIME 89 118	until tender, about 4 minutes
+T9	VERB 120 123	Add
+T10	WHAT 124 169	apple, zucchini, both bell peppers and carrot
+T11	VERB 174 179	saute
+T12	TIME 180 223	until tender but not brown, about 5 minutes
+T13	VERB 225 231	Remove
+T14	WHERE 232 241	from heat
+T15	VERB 243 247	Cool
+T16	TEMP 251 267	room temperature
+T17	VERB 269 272	Mix
+T18	WHAT 273 344	crabmeat, mayonnaise, 2 tablespoons chopped chives and saute vegetables
+T19	WHERE 345 358	in large bowl
+T20	VERB 362 367	blend
+T21	VERB 369 384	Season to taste
+T22	HOW 385 405	with salt and pepper
+T23	VERB 437 458	Cover and refrigerate
+T24	VERB 461 468	Combine
+T25	WHAT 469 516	tomatoes, cilantro, vinegar, garlic and cayenne
+T26	WHERE 517 527	in blender
+T27	VERB 532 537	puree
+T28	TIME 538 557	until almost smooth
+T29	HOW 559 568	Gradually
+T30	VERB 569 572	add
+T31	WHAT 573 576	oil
+T32	VERB 581 586	blend
+T33	TIME 587 607	until sauce is thick
+T34	VERB 609 617	Transfer
+T35	WHERE 618 632	to medium bowl
+T36	VERB 634 649	Season to taste
+T37	HOW 650 670	with salt and pepper
+T38	VERB 672 679	Arrange
+T39	WHAT 680 693	endive spears
+T40	WHERE 694 710	on large platter
+T41	WHERE 717 736	toward platter edge
+T42	WHAT 712 716	tips
+T43	VERB 738 743	Spoon
+T44	WHAT 744 754	crab salad
+T45	WHERE 755 777	into center of platter
+T46	VERB 779 786	Drizzle
+T47	WHAT 787 792	sauce
+T48	WHERE 793 804	over endive
+T49	VERB 806 813	Garnish
+T50	WHAT 814 819	salad
+T51	HOW 820 845	with chopped fresh chives
+T52	VERB 850 855	serve

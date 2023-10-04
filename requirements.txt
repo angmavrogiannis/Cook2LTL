@@ -1,0 +1,4 @@
+spacy
+openai
+sentence_transformers
+tqdm

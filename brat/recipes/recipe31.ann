@@ -1,0 +1,13 @@
+T1	VERB 0 7	Combine
+T2	WHAT 8 66	the orange juice, tequila, triple sec, and cranberry juice
+T3	WHERE 67 111	in a cocktail shaker filled with 3/4 cup ice
+T4	VERB 113 118	Shake
+T5	HOW 119 129	vigorously
+T6	VERB 131 135	Pour
+T7	WHERE 136 148	into a glass
+T8	VERB 150 157	Garnish
+T9	HOW 158 178	with an orange wedge
+T10	WHERE 236 248	in grenadine
+T11	TIME 249 274	before coating with sugar
+T12	VERB 211 214	dip
+T13	WHAT 215 235	the rim of the glass

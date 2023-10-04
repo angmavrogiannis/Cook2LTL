@@ -1,0 +1,29 @@
+T1	VERB 0 4	Coat
+T2	WHAT 5 23	a 9x13 baking dish
+T3	HOW 24 41	with spray of oil
+T4	VERB 43 50	Arrange
+T5	WHAT 51 68	half of the bread
+T6	WHERE 69 80	in the dish
+T7	VERB 82 88	Spread
+T8	WHAT 89 111	the cream cheese cubes
+T9	WHERE 112 126	over the bread
+T10	TIME 131 135	then
+T11	WHAT 136 146	the apples
+T12	VERB 148 151	Top
+T13	HOW 152 172	with remaining bread
+T14	WHERE 174 189	In a large bowl
+T15	VERB 190 194	beat
+T16	WHAT 195 237	the eggs and cream, butter and maple syrup
+T17	VERB 239 243	Pour
+T18	WHERE 244 258	over the bread
+T19	VERB 260 265	Cover
+T20	HOW 266 283	with plastic wrap
+T21	VERB 288 299	refrigerate
+T22	TIME 300 329	overnight or at least 2 hours
+T23	VERB 331 338	Preheat
+T24	WHAT 339 347	the oven
+T25	VERB 360 364	bake
+T26	TIME 365 408	45 minutes of until set and lightly browned
+T27	TEMP 351 355	325F
+T28	VERB 410 419	Let stand
+T29	TIME 420 477	at least 15 minutes before serving with extra maple syrup

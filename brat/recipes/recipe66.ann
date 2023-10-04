@@ -1,0 +1,21 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 9	oven
+T3	TEMP 13 26	400 degrees F
+T4	VERB 28 34	Pierce
+T5	WHAT 35 43	potatoes
+T6	HOW 44 74	with fork or small sharp knife
+T7	VERB 76 81	place
+T8	WHERE 82 104	on microwaveable plate
+T9	VERB 106 115	Microwave
+T10	TEMP 116 123	on HIGH
+T11	TIME 124 129	8 min
+T12	HOW 132 151	turning after 4 min
+T13	VERB 153 161	Transfer
+T14	WHERE 162 180	from plate to oven
+T15	VERB 182 186	Bake
+T16	TIME 187 220	20 min  until potatoes are tender
+T17	VERB 222 225	Cut
+T18	WHAT 226 231	slits
+T19	WHERE 232 251	in tops of potatoes
+T20	VERB 253 256	top
+T21	HOW 257 283	with remaining ingredients

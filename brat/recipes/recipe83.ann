@@ -1,0 +1,23 @@
+T1	VERB 26 33	prepare
+T2	WHAT 34 36	it
+T3	TIME 37 89	the day before you are planning to make the meatloaf
+T4	WHERE 91 106	In a large bowl
+T5	VERB 108 115	combine
+T6	WHAT 116 192	the first nine ingredients (everything but the lamb/beef and tzatziki sauce)
+T7	VERB 194 201	Crumble
+T8	WHAT 202 214	lamb or beef
+T9	WHERE 215 231	over the mixture
+T10	VERB 236 243	combine
+T11	HOW 244 248	well
+T12	VERB 250 255	Shape
+T13	HOW 256 267	into a loaf
+T14	VERB 272 277	place
+T15	WHERE 278 308	in a greased 11x7" baking dish
+T16	VERB 310 314	Bake
+T17	HOW 315 324	uncovered
+T18	TEMP 325 331	at 350
+T19	TIME 332 401	for 55-60 minutes or until no pink remains and a thermostat reads 160
+T20	VERB 403 412	Let stand
+T21	TIME 413 442	for 15 minutes before slicing
+T22	VERB 444 451	Drizzle
+T23	HOW 452 471	with tzatziki sauce

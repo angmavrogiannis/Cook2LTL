@@ -1,0 +1,44 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 45	350 degrees F (175 degrees C)
+T4	VERB 50 54	make
+T5	WHAT 55 64	the crust
+T6	VERB 66 73	combine
+T7	WHAT 74 102	flour, nuts, and brown sugar
+T8	VERB 104 107	Add
+T9	WHAT 108 121	melted butter
+T10	HOW 123 157	tossing to combine the ingredients
+T11	VERB 159 165	Spread
+T12	WHAT 166 177	the mixture
+T13	WHERE 178 196	in a 9x13 inch pan
+T14	VERB 198 202	Bake
+T15	WHAT 203 212	the crust
+T16	TEMP 213 245	at 350 degrees F (175 degrees C)
+T17	TIME 246 260	for 15 minutes
+T18	HOW 262 283	stirring occasionally
+T19	TIME 284 305	until lightly browned
+T20	VERB 307 313	Remove
+T21	WHERE 314 322	from pan
+T22	VERB 327 344	set aside to cool
+T23	VERB 346 354	Sprinkle
+T24	WHAT 355 379	1 1/2 cups crust mixture
+T25	WHERE 380 398	in a 9x13 inch pan
+T26	VERB 400 407	Reserve
+T27	WHAT 408 435	the remaining crust mixture
+T28	WHERE 446 459	In large bowl
+T29	VERB 460 467	combine
+T30	WHAT 468 503	strawberries, sugar and lemon juice
+T31	VERB 505 509	Fold
+T32	WHAT 510 525	whipped topping
+T33	WHERE 526 542	into the mixture
+T34	HOW 544 553	Carefully
+T35	VERB 554 559	spoon
+T36	WHAT 560 567	filling
+T37	WHERE 568 590	over the crust mixture
+T38	VERB 592 600	Sprinkle
+T39	WHAT 601 628	the remaining crust mixture
+T40	WHERE 629 635	on top
+T41	VERB 637 653	Cover and freeze
+T42	TIME 654 679	for 6 hours or until firm
+T43	VERB 691 695	need
+T44	TIME 696 712	the full 6 hours

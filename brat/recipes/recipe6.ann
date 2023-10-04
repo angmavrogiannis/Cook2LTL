@@ -1,0 +1,20 @@
+T1	VERB 0 6	Pierce
+T2	WHAT 7 30	the skin of the chicken
+T3	HOW 31 51	with a fork or knife
+T4	VERB 53 61	Sprinkle
+T5	HOW 62 83	with kombu tea evenly
+T6	WHERE 84 112	on both sides of the chicken
+T7	HOW 114 148	about 1 teaspoon per chicken thigh
+T8	VERB 150 155	Brown
+T9	WHAT 156 184	the skin side of the chicken
+T10	TIME 185 190	first
+T11	TEMP 191 205	over high heat
+T12	TIME 206 224	until golden brown
+T13	VERB 226 234	Sprinkle
+T14	WHAT 235 246	some pepper
+T15	WHERE 247 258	on the meat
+T16	TIME 259 284	just before flipping over
+T17	TIME 286 290	Then
+T18	VERB 291 296	brown
+T19	WHAT 297 311	the other side
+T20	TIME 312 330	until golden brown

@@ -1,0 +1,43 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 29	400 degrees F
+T4	WHERE 31 46	In a large bowl
+T5	VERB 48 52	toss
+T6	WHAT 53 91	the wings with salt and pepper and oil
+T7	VERB 93 97	Line
+T8	WHAT 98 147	a sheet pan with nonstick foil or parchment paper
+T9	VERB 153 159	spread
+T10	WHAT 160 169	the wings
+T11	HOW 170 176	evenly
+T12	WHERE 177 187	on the pan
+T13	VERB 189 193	Bake
+T14	TIME 194 214	for about 50 minutes
+T15	HOW 216 249	turning the wings halfway through
+T16	TIME 251 280	In the last couple of minutes
+T17	VERB 290 297	turn on
+T18	WHAT 298 309	the broiler
+T19	VERB 310 316	to get
+T20	WHAT 317 321	them
+T21	VERB 332 340	crisp up
+T22	HOW 325 331	really
+T23	VERB 342 346	Keep
+T24	WHAT 347 353	an eye
+T25	WHERE 354 361	on them
+T26	TIME 371 394	When the wings are done
+T27	VERB 396 400	melt
+T28	WHAT 401 411	the butter
+T29	WHERE 412 431	in a skillet or wok
+T30	VERB 436 439	add
+T31	WHAT 440 499	the Sriracha, honey, rice wine, soy sauce, hoisin, and salt
+T32	VERB 501 505	Stir
+T33	TEMP 506 519	over low heat
+T34	TIME 520 532	until bubbly
+T35	VERB 534 542	Transfer
+T36	WHAT 543 552	the wings
+T37	WHERE 553 602	from the baking sheet into the pan with the sauce
+T38	VERB 604 608	Toss
+T39	TIME 609 621	until coated
+T40	VERB 623 630	Garnish
+T41	HOW 631 652	with chopped cilantro
+T42	VERB 657 662	serve
+T43	TIME 663 674	immediately

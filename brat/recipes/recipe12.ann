@@ -1,0 +1,8 @@
+T1	WHERE 0 12	In a pitcher
+T2	VERB 14 21	combine
+T3	WHAT 22 77	all the ingredients except the soft drink and ice cubes
+T4	VERB 79 90	Refrigerate
+T5	TIME 95 101	1 hour
+T6	VERB 103 106	Add
+T7	WHAT 111 129	soft drink and ice
+T8	TIME 130 149	just before serving

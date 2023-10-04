@@ -1,0 +1,69 @@
+T1	VERB 0 7	preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 29	190'C - 375'F
+T4	HOW 32 39	lightly
+T5	VERB 40 46	grease
+T6	WHAT 47 59	an oven tray
+T7	VERB 64 73	set aside
+T8	TIME 74 85	till needed
+T9	VERB 88 101	dice and cook
+T10	WHAT 102 114	bacon or ham
+T11	VERB 117 136	drain and set aside
+T12	TIME 137 148	till needed
+T13	WHERE 151 160	in a bowl
+T14	VERB 163 167	beat
+T15	WHAT 168 174	butter
+T16	TIME 175 197	until light and creamy
+T17	TIME 200 204	then
+T18	VERB 205 208	add
+T19	WHAT 209 216	the egg
+T20	VERB 221 228	combine
+T21	HOW 229 233	well
+T22	TIME 236 240	next
+T23	VERB 241 244	add
+T24	WHAT 245 291	the cracked pepper , salt and the curry powder
+T25	VERB 296 311	stir to combine
+T26	TIME 314 317	now
+T27	VERB 318 321	add
+T28	WHAT 322 385	the first quarter cup of cheese and half the diced cooked bacon
+T29	VERB 390 393	mix
+T30	HOW 394 398	well
+T31	VERB 402 413	combine all
+T32	VERB 416 419	add
+T33	WHAT 424 442	sifted plain flour
+T34	WHERE 443 453	to the mix
+T35	VERB 458 461	mix
+T36	HOW 462 479	to a smooth dough
+T37	VERB 482 503	cover and refrigerate
+T38	TIME 504 523	for about half hour
+T39	VERB 526 532	remove
+T40	WHAT 533 538	dough
+T41	WHERE 539 554	from the fridge
+T42	VERB 559 567	roll out
+T43	WHERE 568 596	on a lightly floured surface
+T44	HOW 597 619	to about 1cm thickness
+T45	HOW 622 647	with a small round cutter
+T46	VERB 650 657	cut out
+T47	WHAT 658 672	biscuit shapes
+T48	VERB 677 680	set
+T49	WHERE 681 697	on prepared tray
+T50	VERB 700 703	add
+T51	WHAT 704 750	bits of the other quarter cup of grated cheese
+T52	WHERE 751 769	on top of biscuits
+T53	TIME 774 778	then
+T54	VERB 787 792	crack
+T55	WHAT 795 813	little more pepper
+T56	WHERE 814 830	over the cheeses
+T57	TIME 831 835	then
+T58	VERB 836 844	sprinkle
+T59	HOW 845 882	with the other half of the bacon bits
+T60	VERB 885 890	place
+T61	WHERE 891 898	in oven
+T62	VERB 903 907	cook
+T63	TIME 908 1006	for about 12-15 minutes or until slightly golden and cheese and bacon have crispened up and melted
+T64	VERB 1009 1015	remove
+T65	WHERE 1016 1025	from heat
+T66	VERB 1026 1029	let
+T67	TEMP 1030 1034	cool
+T68	VERB 1048 1051	eat
+T69	TEMP 1052 1063	hot or cold

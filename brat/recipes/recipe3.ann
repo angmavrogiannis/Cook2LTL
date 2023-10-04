@@ -1,0 +1,26 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 38	350 degrees Fahrenheit
+T4	VERB 40 45	Spray
+T5	WHAT 46 49	pan
+T6	HOW 50 78	with non stick cooking spray
+T7	VERB 80 84	Heat
+T8	WHAT 85 107	milk, water and butter
+T9	TEMP 111 118	boiling
+T10	VERB 120 127	stir in
+T11	WHAT 128 164	contents of both pouches of potatoes
+T12	VERB 166 175	let stand
+T13	TIME 176 186	one minute
+T14	VERB 188 195	Stir in
+T15	WHAT 196 200	corn
+T16	VERB 202 207	Spoon
+T17	WHERE 232 238	in pan
+T18	WHAT 208 231	half the potato mixture
+T19	VERB 240 248	Sprinkle
+T20	WHAT 249 279	half each of cheese and onions
+T21	VERB 281 284	top
+T22	HOW 285 308	with remaining potatoes
+T23	VERB 310 318	Sprinkle
+T24	HOW 319 351	with remaining cheese and onions
+T25	VERB 353 357	Bake
+T26	TIME 358 397	10 to 15 minutes until cheese is melted

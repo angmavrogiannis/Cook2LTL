@@ -1,0 +1,68 @@
+T1	VERB 0 4	Chop
+T2	WHAT 5 17	green onions
+T3	VERB 19 23	chop
+T4	WHAT 24 35	red peppers
+T5	VERB 37 51	peel and grate
+T6	WHAT 52 59	carrots
+T7	VERB 98 103	place
+T8	WHAT 104 107	all
+T9	WHERE 108 124	in a medium bowl
+T10	VERB 129 133	toss
+T11	VERB 142 149	Preheat
+T12	WHAT 150 154	oven
+T13	TEMP 158 180	450 degrees Fahrenheit
+T14	VERB 182 187	Place
+T15	WHAT 188 201	salmon fillet
+T16	WHERE 202 251	in middle of a large piece of heavy aluminum foil
+T17	VERB 253 261	Sprinkle
+T18	WHAT 262 268	salmon
+T19	HOW 269 312	with ginger and freshly ground black pepper
+T20	VERB 326 333	Arrange
+T21	WHAT 334 349	bowl of veggies
+T22	WHERE 350 366	on top of salmon
+T23	VERB 372 376	seal
+T24	WHAT 377 381	foil
+T25	HOW 382 389	tightly
+T26	VERB 425 430	Place
+T27	WHERE 434 438	oven
+T28	VERB 443 447	bake
+T29	TIME 452 462	20 minutes
+T30	VERB 464 468	Cook
+T31	WHAT 469 473	rice
+T32	HOW 474 498	per package instructions
+T33	TIME 500 516	While fish bakes
+T34	VERB 518 525	prepare
+T35	WHAT 526 543	Salad a La SPORTZ
+T36	HOW 547 597	arranging crackers in single layer on cookie sheet
+T37	VERB 599 607	sprinkle
+T38	HOW 608 629	with Parmesan topping
+T39	VERB 631 635	Bake
+T40	HOW 663 672	with fish
+T41	TIME 640 654	1 to 2 minutes
+T42	WHERE 655 662	in oven
+T43	TIME 674 700	just until lightly browned
+T44	VERB 702 706	Cool
+T45	VERB 708 712	Toss
+T46	WHAT 713 804	greens (1/2 pound = 8 cups), carrots (grated), tomatoes (halved), and green onions (sliced)
+T47	WHERE 805 824	in large sized bowl
+T48	VERB 826 830	Toss
+T49	HOW 831 844	with dressing
+T50	VERB 846 854	Sprinkle
+T51	HOW 855 868	with crackers
+T52	TIME 869 888	just before serving
+T53	VERB 890 895	Slice
+T54	VERB 896 911	banana and kiwi
+T55	VERB 916 920	toss
+T56	HOW 921 927	gently
+T57	VERB 929 935	divide
+T58	VERB 963 968	Blend
+T59	VERB 969 987	cinnamon and sugar
+T60	HOW 988 999	into yogurt
+T61	VERB 1005 1010	place
+T62	WHAT 1011 1032	one-fourth of mixture
+T63	WHERE 1033 1054	on each bowl of fruit
+T64	WHERE 936 961	between four dessert cups
+T65	VERB 61 65	save
+T66	WHAT 66 84	two grated carrots
+T67	VERB 393 399	create
+T68	WHAT 400 423	a tightly sealed pocket

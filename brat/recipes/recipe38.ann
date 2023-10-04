@@ -1,0 +1,32 @@
+T1	VERB 37 42	split
+T2	WHAT 43 52	each tail
+T3	HOW 53 60	in half
+T4	VERB 62 65	Cut
+T5	WHAT 66 85	bottom side of tail
+T6	WHERE 86 89	off
+T7	VERB 124 139	Cover and grill
+T8	TEMP 143 149	medium
+T9	TIME 150 163	for 7 minutes
+T10	HOW 165 180	shell side down
+T11	VERB 182 187	Baste
+T12	HOW 188 228	with butter, lemon juice and garlic salt
+T13	TIME 229 241	5 or 6 times
+T14	VERB 243 257	Turn and grill
+T15	HOW 258 273	with cover down
+T16	TIME 274 307	another 7 or 8 minutes until done
+T17	VERB 309 320	don't baste
+T18	VERB 344 349	crack
+T19	WHAT 350 358	yourself
+T20	HOW 362 369	bending
+T21	VERB 433 436	Cut
+T22	WHAT 437 441	skin
+T23	VERB 444 447	cut
+T24	WHAT 448 459	hard pieces
+T25	VERB 464 477	don't cut off
+T26	WHAT 478 484	points
+T27	VERB 486 492	Follow
+T28	WHAT 499 517	cooking directions
+T29	VERB 519 524	Serve
+T30	HOW 525 565	with browned butter, potato and coleslaw
+T31	VERB 17 21	have
+T32	WHAT 22 33	store crack

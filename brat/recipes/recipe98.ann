@@ -1,0 +1,44 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 19	375
+T4	VERB 21 24	Cut
+T5	WHAT 25 33	squashes
+T6	HOW 34 41	in half
+T7	VERB 46 51	scoop
+T8	WHERE 52 55	out
+T9	WHAT 56 61	seeds
+T10	VERB 63 68	Place
+T11	WHAT 69 77	squashes
+T12	HOW 78 89	cut side up
+T13	WHERE 90 107	on a cooking tray
+T14	VERB 112 117	roast
+T15	TIME 118 168	until soft and a little browned (about 25 minutes)
+T16	TIME 170 181	Once cooked
+T17	VERB 183 188	scoop
+T18	WHERE 189 192	out
+T19	WHAT 193 199	squash
+T20	VERB 204 211	discard
+T21	WHAT 212 221	the skins
+T22	TIME 223 232	Meanwhile
+T23	VERB 234 238	chop
+T24	WHAT 239 255	onion and garlic
+T25	VERB 257 261	Cook
+T26	HOW 262 276	with olive oil
+T27	TEMP 277 298	over medium-high heat
+T28	TIME 299 309	until soft
+T29	VERB 311 314	Add
+T30	WHAT 315 368	cumin, tomatoes, black beans, squash, salt and pepper
+T31	VERB 373 377	stir
+T32	VERB 379 382	Add
+T33	WHAT 383 398	vegetable broth
+T34	VERB 403 408	bring
+T35	TEMP 409 418	to a boil
+T36	VERB 420 426	Reduce
+T37	WHAT 427 431	heat
+T38	VERB 436 442	simmer
+T39	TIME 443 457	for 25 minutes
+T40	VERB 459 464	Blend
+T41	HOW 465 512	using a handheld blender or traditional blender
+T42	VERB 514 521	Garnish
+T43	HOW 522 541	with avocado slices
+T44	VERB 546 551	serve

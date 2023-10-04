@@ -1,0 +1,28 @@
+T1	VERB 0 4	Cook
+T2	WHAT 5 10	pasta
+T3	WHERE 11 25	in a large pot
+T4	TIME 29 69	2 minutes less than package instructions
+T5	TIME 80 84	then
+T6	VERB 85 88	add
+T7	WHAT 89 100	sugar snaps
+T8	VERB 105 109	cook
+T9	TIME 110 160	until sugar snaps are tender, about 2 minutes more
+T10	VERB 162 169	Reserve
+T11	WHAT 170 191	1/4 cup cooking water
+T12	TIME 193 197	then
+T13	VERB 198 203	drain
+T14	WHAT 204 225	pasta and sugar snaps
+T15	WHERE 226 239	in a colander
+T16	VERB 244 250	return
+T17	WHERE 251 257	to pot
+T18	VERB 259 263	Boil
+T19	WHAT 264 269	cream
+T20	WHERE 270 307	in a 1- to 1 1/2-quart heavy saucepan
+T21	HOW 309 318	uncovered
+T22	TIME 320 329	2 minutes
+T23	TIME 331 335	then
+T24	VERB 336 339	add
+T25	WHERE 340 348	to pasta
+T26	HOW 355 419	with trout, zest, reserved cooking water, dill, salt, and pepper
+T27	VERB 424 428	toss
+T28	TIME 429 443	until combined

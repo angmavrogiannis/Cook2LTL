@@ -1,0 +1,14 @@
+T1	WHERE 0 9	In a bowl
+T2	VERB 11 18	combine
+T3	WHAT 19 71	corned beef, shrd  cheddar, mayo , onion, and relish
+T4	VERB 73 79	Spread
+T5	WHERE 80 113	atop buttered/toasted burger buns
+T6	VERB 115 122	replace
+T7	WHAT 123 127	tops
+T8	VERB 129 134	Place
+T9	WHERE 135 150	on cookie sheet
+T10	VERB 152 156	vent
+T11	HOW 157 175	with aluminum foil
+T12	VERB 177 181	Bake
+T13	TEMP 182 189	at 425'
+T14	TIME 190 237	for aprx  15-20 minutes or until heated through

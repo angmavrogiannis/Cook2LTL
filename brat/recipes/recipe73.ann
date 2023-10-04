@@ -1,0 +1,32 @@
+T1	VERB 0 5	Cream
+T2	WHAT 6 22	sugar and butter
+T3	HOW 23 31	together
+T4	TIME 32 43	till smooth
+T5	VERB 45 51	Add in
+T7	WHAT 52 90	egg beaters, orange rind, orange juice
+T8	VERB 96 99	mix
+T9	HOW 100 104	well
+T10	VERB 106 109	Mix
+T11	HOW 110 118	together
+T12	WHAT 119 153	low sodium baking powder and flour
+T13	VERB 155 161	Add in
+T14	WHERE 162 176	to creamed mix
+T6	VERB 181 184	mix
+T15	HOW 185 189	well
+T16	VERB 191 195	Roll
+T17	WHAT 196 201	dough
+T18	HOW 202 219	into 1 inch balls
+T19	VERB 224 229	place
+T20	WHERE 230 255	on ungreased cookie sheet
+T21	VERB 257 260	Rub
+T22	WHAT 261 293	small amount of salt free butter
+T23	WHERE 294 312	on bottom of glass
+T24	VERB 314 317	Dip
+T25	WHAT 318 323	glass
+T26	WHERE 324 343	in granulated sugar
+T27	VERB 345 352	Flatten
+T28	WHAT 353 370	cookie dough ball
+T29	HOW 371 403	slightly using flat end of glass
+T30	VERB 405 409	Bake
+T31	TEMP 410 424	at 300 degrees
+T32	TIME 425 438	for 10-12 min

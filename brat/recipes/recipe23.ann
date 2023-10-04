@@ -1,0 +1,22 @@
+T1	VERB 0 5	Place
+T2	WHAT 6 26	vanilla wafer cookie
+T3	WHERE 27 38	in a baggie
+T4	VERB 40 44	seal
+T5	WHAT 45 48	bag
+T6	VERB 53 58	crush
+T7	WHAT 59 61	it
+T8	HOW 62 78	into tiny pieces
+T9	VERB 113 122	Set aside
+T10	WHERE 124 136	In a blender
+T11	VERB 137 140	add
+T12	WHAT 141 215	banana, coconut milk, half-and-half, vanilla extract, stevia and ice cubes
+T13	VERB 217 220	Put
+T14	VERB 236 241	blend
+T15	TIME 242 254	until smooth
+T16	WHAT 221 228	the lid
+T17	WHERE 229 231	on
+T18	HOW 295 338	with whipped cream and crushed wafer cookie
+T19	VERB 277 280	top
+T20	WHAT 281 294	each smoothie
+T21	VERB 256 260	Pour
+T22	WHERE 261 272	into 2 cups

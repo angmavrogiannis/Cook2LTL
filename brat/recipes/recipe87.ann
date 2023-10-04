@@ -1,0 +1,27 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 8	oil
+T3	WHERE 9 15	in pan
+T4	VERB 16 21	Whisk
+T5	WHAT 22 28	2 eggs
+T6	WHERE 29 38	in a bowl
+T7	VERB 43 51	sprinkle
+T8	HOW 52 78	with salt and black pepper
+T9	VERB 79 82	Put
+T10	WHAT 83 106	the whisked egg mixture
+T11	WHERE 107 115	into oil
+T12	VERB 120 123	fry
+T13	WHAT 124 126	it
+T14	TIME 127 139	for a minute
+T15	VERB 140 143	Put
+T16	VERB 144 160	slices of cheese
+T17	WHERE 161 195	into pan over half cooked omelette
+T18	VERB 200 204	flip
+T19	WHAT 205 207	it
+T20	TIME 208 221	after one min
+T21	VERB 222 226	Take
+T22	WHAT 227 229	it
+T23	WHERE 230 240	out of pan
+T24	TIME 241 287	as omelette gets inflated and color is changed
+T25	VERB 290 295	enjoy
+T26	WHAT 296 298	it
+T27	HOW 299 361	with any tortilla or paratha (southeastern bread) with ketchup

@@ -1,0 +1,33 @@
+T1	WHERE 0 15	In a large bowl
+T2	VERB 17 22	cream
+T3	HOW 23 31	together
+T4	WHAT 32 59	the peanut butter and sugar
+T5	VERB 61 64	Add
+T6	WHAT 65 85	the vanilla and salt
+T7	VERB 90 93	mix
+T8	HOW 94 98	well
+T9	TIME 100 103	Now
+T10	VERB 104 107	add
+T11	WHAT 108 170	half the milk and half the flour, and all of the baking powder
+T12	VERB 172 175	Mix
+T13	HOW 176 185	very well
+T14	VERB 187 190	Add
+T15	WHAT 191 219	the remaining milk and flour
+T16	VERB 225 228	mix
+T17	HOW 229 234	again
+T18	TIME 235 270	until the batter is nice and smooth
+T19	VERB 272 276	Turn
+T20	WHAT 277 288	the mixture
+T21	WHERE 289 327	into a well oiled 9 by 5-inch loaf pan
+T22	VERB 329 333	Bake
+T23	TEMP 334 340	at 350
+T24	TIME 341 358	for about an hour
+T25	VERB 360 366	Remove
+T26	WHERE 367 380	from the oven
+T27	VERB 386 399	allow to cool
+T28	TIME 400 449	for about 10 minutes before removing from the pan
+T29	VERB 451 455	Cool
+T30	HOW 456 466	completely
+T31	TIME 467 494	before wrapping and storing
+T32	VERB 509 515	freeze
+T33	HOW 516 520	well

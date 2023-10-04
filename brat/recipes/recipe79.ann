@@ -1,0 +1,32 @@
+T1	VERB 0 6	Spread
+T2	WHAT 7 18	popped corn
+T3	WHERE 19 41	in a large shallow pan
+T4	VERB 43 46	Pat
+T5	TEMP 50 54	250F
+T6	WHERE 55 59	oven
+T7	VERB 60 67	to keep
+T8	VERB 69 76	Combine
+T9	WHAT 77 112	butter, brown sugar, and corn syrup
+T10	WHERE 113 133	in 2 quart sauce pan
+T11	VERB 135 139	Heat
+T12	TEMP 140 149	at medium
+T13	TIME 150 171	until sugar dissolves
+T14	VERB 173 197	Continue to boil to form
+T15	VERB 198 209	a firm ball
+T16	TEMP 211 215	248F
+T17	TIME 218 233	about 5 minutes
+T18	VERB 235 241	Remove
+T19	WHERE 242 251	from heat
+T20	VERB 253 260	stir in
+T21	WHAT 261 275	soda and syrup
+T22	VERB 282 286	foam
+T23	VERB 289 293	Pour
+T24	WHAT 294 301	mixture
+T25	WHERE 302 318	over warmed corn
+T26	HOW 319 335	in a fine stream
+T27	VERB 337 343	Return
+T28	WHERE 344 351	to oven
+T29	TIME 352 366	for 45 minutes
+T30	HOW 368 393	stirring every 15 minutes
+T31	VERB 395 409	Cool and store
+T32	WHERE 410 432	in airtight containers

@@ -1,0 +1,22 @@
+T1	VERB 0 4	LINE
+T2	HOW 42 107	with wax paper and graham wafers, completely covering base of pan
+T3	WHAT 5 41	the bottom of a 9" (2.5L) square pan
+T4	VERB 109 114	BLEND
+T5	WHAT 115 137	ice cream and lemonade
+T6	HOW 139 150	mixing well
+T7	VERB 152 156	Pour
+T8	WHERE 157 179	over graham wafer base
+T9	VERB 181 186	Cover
+T10	HOW 187 208	with remaining wafers
+T11	VERB 210 216	Freeze
+T12	TIME 217 237	1 hour or until firm
+T13	VERB 239 246	COMBINE
+T14	WHAT 247 280	melted chocolate chips and butter
+T15	VERB 285 291	spread
+T16	HOW 292 298	evenly
+T17	WHERE 299 320	over top graham layer
+T18	VERB 322 328	Freeze
+T19	TIME 329 354	until firm, about 2 hours
+T20	VERB 356 359	Cut
+T21	HOW 381 404	with warmed sharp knife
+T22	HOW 360 380	into squares or bars

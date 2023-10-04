@@ -1,0 +1,20 @@
+T1	VERB 0 4	Sift
+T2	WHAT 5 20	dry ingredients
+T3	VERB 22 26	beat
+T4	WHAT 27 31	eggs
+T5	TIME 32 44	until frothy
+T6	VERB 46 49	add
+T7	WHAT 50 72	sugar, oil and vanilla
+T8	VERB 74 78	Beat
+T9	TIME 79 90	until thick
+T10	VERB 92 99	Stir in
+T11	WHAT 100 108	zucchini
+T12	VERB 110 118	blend in
+T13	WHAT 119 141	sifted dry ingredients
+T14	VERB 143 150	Fold in
+T15	WHAT 151 155	nuts
+T16	VERB 157 164	pour in
+T17	WHAT 165 181	greased loaf pan
+T18	VERB 186 190	bake
+T19	TEMP 194 205	350 degrees
+T20	TIME 206 221	for 1 1/2 hours

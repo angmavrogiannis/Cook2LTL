@@ -1,0 +1,28 @@
+T1	WHERE 2 17	In a large bowl
+T2	VERB 19 22	mix
+T3	HOW 23 31	together
+T4	WHAT 32 114	flour, salt, baking powder, cinnamon, nutmeg, ground cloves, ginger and Flax Seeds
+T5	VERB 116 125	set aside
+T6	VERB 127 134	Preheat
+T7	WHAT 135 146	waffle iron
+T8	TEMP 147 169	to desired temperature
+T9	WHERE 173 191	In a separate bowl
+T10	VERB 193 197	beat
+T11	WHAT 198 206	the eggs
+T12	VERB 208 215	Stir in
+T13	WHAT 216 247	the milk, oil vanilla and honey
+T14	VERB 251 254	Mix
+T15	WHAT 255 260	fruit
+T16	WHERE 261 275	in dry mixture
+T17	VERB 279 283	Pour
+T18	WHAT 284 300	the milk mixture
+T19	WHERE 301 329	into the flour/fruit mixture
+T20	VERB 331 334	mix
+T21	HOW 335 342	lightly
+T22	TIME 343 362	till nicely blended
+T23	VERB 366 371	Ladle
+T24	WHAT 372 382	the batter
+T25	WHERE 383 411	into a preheated waffle iron
+T26	VERB 413 417	Cook
+T27	WHAT 418 429	the waffles
+T28	TIME 430 452	until golden and crisp

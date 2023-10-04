@@ -1,0 +1,25 @@
+T1	VERB 0 4	Cook
+T2	WHAT 5 13	linguine
+T3	HOW 14 45	according to package directions
+T4	VERB 47 52	drain
+T5	VERB 54 59	Saute
+T6	WHAT 60 71	bell pepper
+T7	WHERE 72 90	in a small skillet
+T8	TEMP 91 107	over medium heat
+T9	TIME 108 142	until limp, about 10 to 12 minutes
+T10	TIME 144 153	Meanwhile
+T11	VERB 155 160	whisk
+T12	WHAT 161 193	vinegar, garlic, salt and pepper
+T13	WHERE 194 209	in a small bowl
+T14	HOW 211 217	slowly
+T15	VERB 218 226	whisk in
+T16	WHAT 227 230	oil
+T17	VERB 232 239	Stir in
+T18	WHAT 240 256	1/2 cup of basil
+T19	VERB 258 263	Place
+T20	WHAT 264 340	pasta, chicken, cooked peppers, mozzarella, goat cheese, and remaining basil
+T21	WHERE 341 356	in a large bowl
+T22	VERB 358 362	Pour
+T23	WHAT 363 371	dressing
+T24	WHERE 372 380	over top
+T25	VERB 385 397	toss to coat

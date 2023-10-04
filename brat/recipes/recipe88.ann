@@ -1,0 +1,37 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 9	oven
+T3	TEMP 13 17	325F
+T4	HOW 18 25	Lightly
+T5	VERB 26 32	grease
+T6	WHAT 33 53	fluted tube cake pan
+T7	WHERE 54 79	In large food storage bag
+T8	VERB 81 84	Mix
+T9	WHAT 85 111	granulated sugar, cinnamon
+T10	VERB 112 115	Cut
+T11	WHAT 116 127	16 biscuits
+T12	HOW 128 141	into quarters
+T13	VERB 143 148	Shake
+T14	WHAT 149 165	biscuit quarters
+T15	WHERE 166 185	in food storage bag
+T16	VERB 186 193	to coat
+T17	HOW 194 217	with sugar and cinnamon
+T18	VERB 219 226	Arrange
+T19	WHAT 227 240	coated pieces
+T20	WHERE 241 247	in pan
+T21	VERB 249 252	Mix
+T22	WHAT 253 296	melted butter or margarine with brown sugar
+T23	VERB 298 302	Pour
+T24	WHAT 303 317	butter mixture
+T25	WHERE 318 337	over biscuit pieces
+T26	VERB 339 343	Bake
+T27	TIME 344 413	45 to 50 minutes or until golden brown and no longer doughy in center
+T28	VERB 415 423	Let cool
+T29	WHERE 424 430	in pan
+T30	TIME 431 447	10 to 15 minutes
+T31	VERB 449 453	Turn
+T32	HOW 454 465	upside-down
+T33	WHERE 466 484	onto serving plate
+T34	VERB 486 490	Pull
+T35	WHERE 491 496	apart
+T36	VERB 501 506	enjoy
+T37	TEMP 507 511	warm

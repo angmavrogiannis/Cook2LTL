@@ -1,0 +1,35 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 13 20	to 500F
+T4	TEMP 27 31	500F
+T5	VERB 36 41	Grate
+T6	WHAT 42 65	the potatoes and onions
+T7	WHERE 66 102	on the middle sized hole of a grater
+T8	HOW 104 139	either by hand or by food processor
+T9	VERB 148 153	grate
+T10	WHAT 154 177	the potatoes and onions
+T11	HOW 178 186	together
+T12	WHAT 192 200	potatoes
+T13	VERB 232 235	Put
+T14	WHERE 236 265	into a large bowl or soup pot
+T15	VERB 271 274	mix
+T16	HOW 275 279	well
+T17	HOW 280 306	with remaining ingredients
+T18	VERB 308 314	Grease
+T19	WHAT 315 331	your baking pans
+T20	VERB 337 341	pour
+T21	WHAT 342 349	mixture
+T22	HOW 350 356	evenly
+T23	WHERE 357 370	into the pans
+T24	VERB 372 376	Bake
+T25	TIME 377 391	for 15 minutes
+T26	TEMP 392 399	at 500F
+T27	TIME 401 405	then
+T28	VERB 406 411	lower
+T29	WHAT 412 420	the oven
+T30	TEMP 421 428	to 400F
+T31	TIME 429 439	until done
+T32	VERB 441 446	check
+T33	TIME 447 466	after an hour or so
+T34	WHERE 494 500	on top
+T35	VERB 503 516	Eat and enjoy

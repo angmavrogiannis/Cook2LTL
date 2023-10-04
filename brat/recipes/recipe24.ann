@@ -1,0 +1,103 @@
+T1	VERB 0 6	Spread
+T2	WHAT 7 18	foie mousse
+T3	WHERE 19 33	on each fillet
+T4	VERB 38 41	top
+T5	HOW 42 55	with 3 chives
+T6	VERB 57 61	Soak
+T7	WHAT 62 79	the rice wrappers
+T8	WHERE 80 93	in warm water
+T9	TIME 94 121	until soft, about 3 minutes
+T10	TIME 123 127	then
+T11	VERB 128 131	lay
+T12	WHERE 132 158	on a dry, clean hand towel
+T13	VERB 160 165	Place
+T14	WHAT 166 173	halibut
+T15	HOW 175 189	foie side down
+T16	WHERE 190 218	in the middle of the wrapper
+T17	VERB 223 230	fold in
+T18	TIME 243 248	first
+T19	TIME 250 254	Then
+T20	VERB 255 262	fold in
+T21	WHAT 263 274	the 2 sides
+T22	TIME 275 294	followed by the top
+T23	VERB 296 304	Let rest
+T24	TIME 320 348	for 5 minutes before cooking
+T25	WHERE 305 319	on folded side
+T26	WHERE 388 406	In a non stick pan
+T27	VERB 408 412	coat
+T28	HOW 413 430	with a little oil
+T29	VERB 435 439	sear
+T30	WHAT 440 451	folded side
+T31	WHAT 231 242	bottom side
+T32	TIME 452 474	first, about 3 minutes
+T33	VERB 504 522	Flip over and sear
+T34	WHAT 523 536	the foie side
+T35	TIME 537 548	until brown
+T36	TIME 596 621	for about 8 to 10 minutes
+T37	WHERE 591 595	oven
+T38	TEMP 580 590	400 degree
+T39	WHERE 623 639	On a large plate
+T40	VERB 550 574	Flip back over and toast
+T41	VERB 641 646	place
+T42	WHAT 647 668	small mound of squash
+T43	WHERE 669 682	in the middle
+T44	VERB 684 692	Surround
+T45	HOW 693 707	with mushrooms
+T46	VERB 712 719	garnish
+T47	HOW 720 747	with truffle oil and chives
+T48	WHERE 749 763	In a processor
+T49	VERB 765 770	puree
+T50	HOW 771 784	into a mousse
+T51	WHAT 785 835	the foie gras, egg, cream, truffle oil and chicken
+T52	TIME 836 848	until smooth
+T53	VERB 850 858	Transfer
+T54	WHAT 859 869	the mousse
+T55	WHERE 870 887	to a chilled bowl
+T56	VERB 892 899	fold in
+T57	WHAT 900 910	the chives
+T58	VERB 915 921	season
+T59	HOW 922 942	with salt and pepper
+T60	VERB 944 953	Set aside
+T61	VERB 954 962	Pre-heat
+T62	WHAT 963 967	oven
+T63	TEMP 971 982	375 degrees
+T64	VERB 984 989	Place
+T65	WHAT 990 996	squash
+T66	WHERE 997 1011	on baking dish
+T67	VERB 1016 1019	add
+T68	WHAT 1024 1059	butter, honey, ginger and seasoning
+T69	VERB 1061 1065	Bake
+T70	TIME 1066 1113	for 45 to 60 minutes until squash is "al dente"
+T71	VERB 1115 1130	Do not overcook
+T72	WHAT 1131 1141	the squash
+T73	VERB 1143 1152	Spoon out
+T74	WHAT 1153 1159	squash
+T75	VERB 1164 1169	check
+T76	VERB 1185 1189	Keep
+T77	TEMP 1190 1194	warm
+T78	WHERE 1553 1588	In a hot saute pan coated with oil,
+T79	VERB 1589 1599	caramelize
+T80	WHAT 1600 1612	the shallots
+T81	VERB 1614 1620	Season
+T82	VERB 1622 1625	Add
+T83	WHAT 1626 1647	the crimini mushrooms
+T84	TIME 1648 1653	first
+T85	VERB 1658 1662	cook
+T86	TIME 1667 1675	1 minute
+T87	VERB 1677 1680	Add
+T88	WHAT 1681 1714	the remaining mushrooms and thyme
+T89	VERB 1716 1721	Check
+T90	VERB 1737 1744	Deglaze
+T91	HOW 1745 1758	with red wine
+T92	VERB 1760 1770	Let reduce
+T93	TIME 1785 1789	then
+T94	HOW 1771 1784	by 75 percent
+T95	VERB 1790 1793	add
+T96	WHAT 1794 1808	the demi-glace
+T97	VERB 1810 1816	Simmer
+T98	HOW 1817 1823	slowly
+T99	TIME 1824 1838	for 20 minutes
+T100	VERB 1840 1848	Whisk in
+T101	WHAT 1849 1855	butter
+T102	VERB 1860 1864	keep
+T103	TEMP 1865 1868	hot

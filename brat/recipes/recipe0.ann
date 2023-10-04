@@ -1,0 +1,62 @@
+T1	VERB 0 7	Preheat
+T2	TEMP 20 25	350 F
+T3	WHAT 12 16	oven
+T4	WHAT 41 62	an 8-inch baking dish
+T5	VERB 27 40	Butter or oil
+T6	VERB 64 68	Cook
+T7	WHAT 73 78	penne
+T8	TIME 79 117	2 minutes less than package directions
+T9	VERB 119 124	Rinse
+T10	WHAT 129 134	pasta
+T11	VERB 911 915	Stir
+T12	HOW 916 926	frequently
+T13	HOW 865 876	immediately
+T14	VERB 881 892	refrigerate
+T15	TIME 897 909	up to 3 days
+T16	HOW 584 590	Slowly
+T17	VERB 591 594	add
+T18	WHAT 599 603	milk
+T19	HOW 605 624	whisking constantly
+T20	VERB 626 630	Cook
+T21	TIME 631 673	until the sauce thickens, about 10 minutes
+T22	HOW 675 694	stirring frequently
+T23	VERB 696 702	Remove
+T24	WHERE 712 716	heat
+T25	VERB 718 721	Add
+T26	VERB 861 864	Use
+T27	VERB 539 547	Continue
+T28	HOW 548 568	whisking and cooking
+T29	TIME 573 582	2 minutes
+T30	WHAT 726 772	cheeses, salt, chili powder, and garlic powder
+T31	VERB 774 778	Stir
+T32	TIME 779 859	until the cheese is melted and all ingredients are incorporated, about 3 minutes
+T33	WHERE 135 148	in cold water
+T34	VERB 153 162	set aside
+T35	VERB 164 171	Combine
+T36	WHAT 176 188	cooked pasta
+T37	WHERE 203 219	in a medium bowl
+T38	VERB 224 227	mix
+T39	HOW 228 237	carefully
+T40	VERB 254 260	Scrape
+T41	WHAT 265 270	pasta
+T42	VERB 302 310	Sprinkle
+T43	WHAT 315 318	top
+T44	VERB 363 367	Bake
+T45	HOW 369 378	uncovered
+T46	TIME 384 394	20 minutes
+T47	WHAT 404 418	mac and cheese
+T48	TIME 423 451	for 5 minutes before serving
+T49	VERB 453 457	Melt
+T50	WHAT 462 468	butter
+T51	WHERE 474 497	heavy-bottomed saucepan
+T52	TEMP 503 514	medium heat
+T53	VERB 519 527	whisk in
+T54	WHAT 532 537	flour
+T55	WHERE 271 300	into the prepared baking dish
+T56	HOW 319 335	with the cheeses
+T57	TIME 340 344	then
+T58	WHAT 349 361	chili powder
+T59	WHAT 197 202	sauce
+T60	HOW 242 252	thoroughly
+T61	VERB 396 399	Let
+T62	VERB 419 422	sit

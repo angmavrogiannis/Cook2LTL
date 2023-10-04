@@ -1,0 +1,26 @@
+T1	VERB 0 4	Heat
+T2	WHAT 5 9	oven
+T3	TEMP 13 24	375 degrees
+T4	VERB 29 35	grease
+T5	WHAT 36 51	a 13x9-inch pan
+T6	VERB 53 60	Combine
+T7	WHAT 61 114	1 1/2 cups oat, flour, sugar, cinnamon, soda and salt
+T8	WHERE 116 139	To your dry ingredients
+T9	VERB 140 143	add
+T10	WHAT 144 175	the juice, oil, egg and vanilla
+T11	VERB 177 180	mix
+T12	HOW 181 185	well
+T13	VERB 187 194	Stir in
+T14	WHAT 195 200	fruit
+T15	VERB 202 208	Spread
+T16	WHERE 209 235	into the bottom of the pan
+T17	VERB 237 245	Sprinkle
+T18	HOW 246 276	with the 2 tablespoons of oats
+T19	VERB 278 282	Bake
+T20	TIME 283 379	20 to 25 minutes or until lightly browned and the edges start to pull away from sides of the pan
+T21	VERB 381 385	Cool
+T22	HOW 386 396	completely
+T23	VERB 398 401	cut
+T24	HOW 402 411	into bars
+T25	VERB 416 421	store
+T26	WHERE 422 444	in a covered container

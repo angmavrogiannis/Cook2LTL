@@ -1,0 +1,36 @@
+T1	VERB 0 7	Prepare
+T2	WHAT 8 16	cucumber
+T3	HOW 17 46	by cutting into 2 inch rounds
+T4	VERB 48 53	Scoop
+T5	WHERE 54 57	out
+T6	WHERE 78 107	in the centre of the cucumber
+T7	WHAT 62 77	seeds and flesh
+T8	HOW 108 137	using a melon baller or spoon
+T9	VERB 150 159	not to go
+T10	WHERE 160 187	all the way through the cup
+T11	VERB 190 195	Place
+T12	WHAT 196 212	scooped cucumber
+T13	WHERE 213 224	into a bowl
+T14	VERB 227 232	Carve
+T15	WHERE 233 236	out
+T16	WHAT 237 259	enough of the cucumber
+T17	VERB 349 354	Place
+T18	WHAT 355 387	all of the remaining ingredients
+T19	WHERE 388 407	in a food processor
+T20	WHAT 422 439	reserved cucumber
+T21	VERB 441 446	Puree
+T22	TIME 447 459	until smooth
+T23	VERB 461 467	Adjust
+T24	WHAT 468 477	seasoning
+T25	HOW 478 486	to taste
+T26	VERB 488 491	Add
+T27	WHAT 492 497	vodka
+T28	VERB 502 508	strain
+T29	HOW 509 527	through a colander
+T30	VERB 529 534	Chill
+T31	TIME 535 565	for 1 hour and up to overnight
+T32	VERB 585 589	Pour
+T33	WHAT 590 595	puree
+T34	WHERE 596 614	into cucumber cups
+T35	VERB 619 624	serve
+T36	TIME 625 636	immediately

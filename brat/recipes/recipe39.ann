@@ -1,0 +1,37 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 37	325 degrees farenheit
+T4	VERB 39 45	Grease
+T5	WHAT 46 67	3 large baking sheets
+T6	WHERE 69 91	In a small mixing bowl
+T7	VERB 93 97	beat
+T8	WHAT 98 116	egg white and salt
+T9	HOW 117 132	at medium speed
+T10	TIME 133 154	until soft peaks form
+T11	VERB 156 164	Increase
+T12	WHAT 165 170	speed
+T13	HOW 174 185	medium-high
+T14	VERB 190 193	add
+T15	WHAT 194 199	sugar
+T16	HOW 200 222	a tablespoon at a time
+T17	HOW 224 231	beating
+T18	TIME 232 267	until all the sugar is incorporated
+T19	VERB 293 300	Stir in
+T20	WHAT 301 334	flour, cinnamon, vanilla and nuts
+T21	VERB 336 340	Drop
+T22	WHAT 341 348	mixture
+T23	WHERE 389 414	on prepared baking sheets
+T24	HOW 349 387	by level teaspoons, 1 1/2 inches apart
+T25	VERB 416 420	Bake
+T26	TIME 421 480	10 to 13 minutes, or until they are dry and firm on the top
+T27	VERB 482 486	Cook
+T28	TIME 487 495	1 minute
+T29	WHERE 496 512	on baking sheets
+T30	VERB 514 522	Transfer
+T31	WHERE 523 531	to racks
+T32	TEMP 535 550	cool completely
+T33	VERB 552 557	Store
+T34	WHERE 558 582	in an airtight container
+T35	TEMP 583 602	at room temperature
+T36	TIME 603 620	for up to 10 days
+T37	VERB 624 630	freeze

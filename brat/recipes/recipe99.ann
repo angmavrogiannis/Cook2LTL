@@ -1,0 +1,14 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 28	375F degrees
+T4	VERB 30 33	Mix
+T5	WHAT 34 55	pie filling& cherries
+T6	WHERE 56 86	in an ungreased 8x8 baking pan
+T7	VERB 88 95	Combine
+T8	WHAT 96 149	oats, baking mix, brown sugar, nuts, butter& cinnamon
+T9	TIME 150 163	until crumbly
+T10	VERB 165 173	sprinkle
+T11	WHERE 174 184	over fruit
+T12	VERB 186 190	Bake
+T13	HOW 191 200	uncovered
+T14	TIME 201 282	until fruit is hot& bubbly, and topping is golden brown, approximately 45 minutes

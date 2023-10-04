@@ -1,0 +1,16 @@
+T1	VERB 0 3	Add
+T2	WHAT 8 16	tomatoes
+T3	WHERE 17 36	to a food processor
+T4	HOW 37 57	with a pinch of salt
+T5	VERB 62 67	puree
+T6	TIME 68 80	until smooth
+T7	VERB 82 89	Combine
+T8	WHAT 94 150	onions, bell peppers and cucumbers with the tomato puree
+T9	WHERE 151 166	in a large bowl
+T10	VERB 168 173	Chill
+T11	TIME 174 189	at least 1 hour
+T12	VERB 191 198	Drizzle
+T13	HOW 199 213	with olive oil
+T14	VERB 215 222	garnish
+T15	HOW 223 241	with chopped basil
+T16	VERB 246 251	serve

@@ -1,0 +1,54 @@
+T1	WHERE 22 38	In a medium bowl
+T2	VERB 40 43	mix
+T3	HOW 44 52	together
+T4	WHAT 53 79	the flour, salt and pepper
+T5	WHERE 81 115	In a large heavy-bottomed saucepan
+T6	VERB 117 121	pour
+T7	WHAT 122 132	enough oil
+T8	VERB 133 140	to fill
+T9	WHAT 141 148	the pan
+T10	HOW 149 169	about 1/3 of the way
+T11	VERB 171 175	Heat
+T12	TEMP 176 192	over medium heat
+T13	TIME 193 266	until a deep-frying thermometer inserted in the oil reaches 375 degrees F
+T14	VERB 276 286	don't have
+T15	WHAT 287 300	a thermometer
+T16	TIME 328 345	in about 1 minute
+T17	VERB 322 327	brown
+T18	VERB 350 353	Mix
+T19	WHAT 354 371	the egg and water
+T20	HOW 372 380	together
+T21	VERB 381 388	to make
+T22	WHAT 393 396	egg
+T23	VERB 397 401	wash
+T24	VERB 403 406	Dip
+T25	WHAT 407 477	the cauliflower, green beans, fennel, garbanzo beans, and lemon slices
+T26	WHERE 478 493	in the egg wash
+T27	TIME 495 499	then
+T28	VERB 500 509	dredge in
+T29	WHAT 510 519	the flour
+T30	VERB 520 527	to coat
+T31	VERB 529 532	Fry
+T32	WHAT 533 556	the dredged ingredients
+T33	TIME 557 597	for 1 to 3 minutes until lightly browned
+T34	VERB 599 604	Drain
+T35	WHERE 605 620	on paper towels
+T36	WHERE 648 663	In a small bowl
+T37	VERB 665 670	whisk
+T38	WHAT 671 701	the mayonnaise and lemon juice
+T39	HOW 702 710	together
+T40	TIME 711 723	until smooth
+T41	VERB 725 729	Pour
+T42	WHERE 730 766	into a small dipping or serving bowl
+T43	VERB 768 775	Arrange
+T44	WHAT 776 792	the fritto misto
+T45	WHERE 793 805	on a platter
+T46	VERB 810 815	serve
+T47	HOW 816 841	with the lemon mayonnaise
+T48	VERB 850 860	don't want
+T49	WHAT 865 875	lemon mayo
+T50	VERB 927 930	Try
+T51	WHAT 931 935	this
+T52	HOW 936 957	with other vegetables
+T53	WHAT 979 1000	eggplant and zucchini
+T54	WHAT 895 906	fresh lemon

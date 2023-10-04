@@ -1,0 +1,130 @@
+T1	VERB 0 4	Melt
+T2	WHAT 5 15	the butter
+T3	WHERE 16 36	in a medium saucepan
+T4	TEMP 37 53	over medium heat
+T5	VERB 55 58	Add
+T6	WHAT 59 68	the flour
+T7	VERB 73 77	cook
+T8	TIME 78 86	1 minute
+T9	VERB 88 96	Whisk in
+T10	WHAT 97 105	the milk
+T11	VERB 110 114	cook
+T12	TIME 115 139	until slightly thickened
+T13	VERB 141 147	Remove
+T14	WHERE 148 157	from heat
+T15	VERB 162 169	stir in
+T16	WHAT 170 210	the Monterey Jack cheese, poblano chiles
+T17	VERB 216 222	season
+T18	HOW 223 243	with salt and pepper
+T19	VERB 255 260	Place
+T20	WHAT 261 276	the queso sauce
+T21	WHERE 277 288	into a bowl
+T22	VERB 293 301	sprinkle
+T23	HOW 302 322	with chopped poblano
+T24	VERB 324 329	Whisk
+T25	HOW 330 338	together
+T26	WHAT 339 361	the mustards and honey
+T27	TIME 373 387	until combined
+T28	VERB 389 396	Let sit
+T29	TIME 397 431	at least 30 minutes before serving
+T30	VERB 433 437	Line
+T31	WHAT 438 455	2 half sheet pans
+T32	HOW 456 476	with parchment paper
+T33	VERB 481 486	spray
+T34	HOW 487 517	liberally with vegetable spray
+T35	VERB 519 526	Combine
+T36	WHAT 531 562	water, sugar, yeast, and butter
+T37	WHERE 563 591	in the bowl of a stand mixer
+T38	VERB 596 599	mix
+T39	HOW 600 619	with the dough hook
+T40	TIME 620 634	until combined
+T41	VERB 636 643	Let sit
+T42	TIME 644 657	for 5 minutes
+T43	VERB 659 662	Add
+T44	WHAT 667 681	salt and flour
+T45	VERB 686 689	mix
+T46	HOW 690 702	on low speed
+T47	TIME 703 717	until combined
+T48	VERB 719 727	Increase
+T49	WHAT 728 737	the speed
+T50	HOW 738 747	to medium
+T51	VERB 752 769	continue kneading
+T52	TIME 770 867	until the dough is smooth and begins to pull away from the side of the bowl, about 3 to 4 minutes
+T53	VERB 899 902	add
+T54	WHAT 903 919	additional flour
+T55	HOW 921 943	1 tablespoon at a time
+T56	VERB 945 951	Remove
+T57	WHAT 952 961	the dough
+T58	WHERE 962 975	from the bowl
+T59	VERB 977 982	place
+T60	WHERE 983 1000	on a flat surface
+T61	VERB 1005 1010	knead
+T62	HOW 1011 1038	into a ball with your hands
+T63	VERB 1040 1043	Oil
+T64	WHAT 1044 1050	a bowl
+T65	HOW 1051 1069	with vegetable oil
+T66	VERB 1071 1074	add
+T67	WHAT 1075 1084	the dough
+T68	VERB 1089 1093	turn
+T69	VERB 1097 1101	coat
+T70	HOW 1102 1114	with the oil
+T71	VERB 1116 1121	Cover
+T72	HOW 1122 1156	with a clean towel or plastic wrap
+T73	VERB 1161 1166	place
+T74	WHERE 1167 1181	in a warm spot
+T75	TIME 1182 1227	until the dough doubles in size, about 1 hour
+T76	VERB 1229 1236	Preheat
+T77	WHAT 1241 1245	oven
+T78	TEMP 1249 1262	425 degrees F
+T79	VERB 1264 1269	Bring
+T80	WHAT 1274 1279	water
+T81	TEMP 1285 1289	boil
+T82	WHERE 1290 1313	in a small roasting pan
+T83	TEMP 1314 1328	over high heat
+T84	VERB 1333 1336	add
+T85	WHAT 1341 1352	baking soda
+T86	VERB 1354 1360	Remove
+T87	WHAT 1361 1370	the dough
+T88	WHERE 1371 1384	from the bowl
+T89	VERB 1389 1394	place
+T90	WHERE 1395 1412	on a flat surface
+T91	VERB 1414 1420	Divide
+T92	WHAT 1421 1430	the dough
+T93	HOW 1431 1484	into 8 equal pieces, about 4 1/4 to 4 1/2 ounces each
+T94	VERB 1486 1490	Roll
+T95	WHAT 1491 1501	each piece
+T96	HOW 1502 1548	into a long rope measuring 22 inches and shape
+T97	VERB 1550 1554	take
+T98	WHAT 1555 1569	the right side
+T99	VERB 1574 1584	cross over
+T100	WHERE 1585 1596	to the left
+T101	VERB 1598 1603	Cross
+T102	WHERE 1604 1617	right to left
+T103	VERB 1628 1635	flip up
+T104	VERB 1637 1641	Boil
+T105	WHAT 1642 1654	the pretzels
+T106	WHERE 1655 1676	in the water solution
+T107	HOW 1678 1689	2 at a time
+T108	TIME 1690 1704	for 30 seconds
+T109	HOW 1706 1760	splashing the tops with the warmed water using a spoon
+T110	VERB 1762 1768	Remove
+T111	HOW 1769 1814	with a large flat slotted spatula or a spider
+T112	VERB 1816 1821	Place
+T113	WHAT 1822 1832	4 pretzels
+T114	WHERE 1833 1853	on each baking sheet
+T115	VERB 1855 1860	brush
+T116	WHAT 1861 1869	the tops
+T117	HOW 1870 1887	with the egg wash
+T118	VERB 1892 1898	season
+T119	HOW 1899 1908	liberally
+T120	HOW 1909 1922	with the salt
+T121	VERB 1924 1929	Place
+T122	WHERE 1930 1943	into the oven
+T123	VERB 1948 1952	bake
+T124	TIME 1953 1992	for 15 to 18 minutes until golden brown
+T125	VERB 1994 2000	Remove
+T126	WHERE 2001 2017	to a baking rack
+T127	VERB 2022 2030	let rest
+T128	TIME 2031 2054	5 minutes before eating
+T129	VERB 2056 2059	Dip
+T130	WHERE 2060 2079	into desired sauces

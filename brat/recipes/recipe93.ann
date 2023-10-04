@@ -1,0 +1,29 @@
+T1	VERB 0 4	Cook
+T2	WHAT 5 16	lamb strips
+T3	TEMP 17 31	over high heat
+T4	WHERE 32 75	in a hot, lightly greased wok or frying pan
+T5	TIME 77 103	2 minutes or until browned
+T6	VERB 105 111	Remove
+T7	WHAT 112 116	meat
+T8	VERB 121 130	set aside
+T9	VERB 132 135	Add
+T10	WHAT 136 154	a little extra oil
+T11	VERB 166 169	Add
+T12	WHAT 170 190	onion and vegetables
+T13	VERB 195 199	cook
+T14	TEMP 200 214	over high heat
+T15	TIME 216 247	3 - 4 minutes until just tender
+T16	VERB 249 255	Return
+T17	WHAT 256 260	lamb
+T18	WHERE 261 271	to the pan
+T19	VERB 276 280	pour
+T20	VERB 305 309	Toss
+T21	VERB 316 323	to heat
+T22	HOW 324 331	through
+T23	VERB 333 344	Do not boil
+T24	WHERE 281 303	in dressing and olives
+T25	VERB 346 352	Remove
+T26	WHERE 353 369	to serving plate
+T27	VERB 374 379	serve
+T28	TIME 380 391	immediately
+T29	HOW 393 450	generously topped with chopped herbs and grilled focaccia

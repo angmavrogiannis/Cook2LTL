@@ -1,0 +1,53 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 27	350 degrees
+T4	VERB 29 36	Flatten
+T5	WHAT 37 42	dough
+T6	WHERE 43 53	onto a pan
+T7	HOW 54 70	into a rectangle
+T8	VERB 72 84	Don't handle
+T9	WHAT 85 94	the dough
+T10	HOW 95 103	too much
+T11	VERB 128 144	Allow to warm up
+T12	TEMP 148 164	room temperature
+T13	WHERE 166 187	In a medium-sized pan
+T14	VERB 189 194	brown
+T15	WHAT 195 202	sausage
+T16	VERB 204 209	Drain
+T17	HOW 210 214	well
+T18	VERB 216 220	Pour
+T19	WHAT 221 228	sausage
+T20	HOW 229 245	evenly in a line
+T21	WHERE 246 272	in the center of the dough
+T22	VERB 274 282	Sprinkle
+T23	WHAT 283 289	cheese
+T24	HOW 290 296	evenly
+T25	WHERE 297 314	on top of sausage
+T26	VERB 316 324	Sprinkle
+T27	WHAT 325 358	Italian Seasoning and Garlic Salt
+T28	WHERE 359 397	over the top of the sausage and cheese
+T29	VERB 411 415	Pull
+T30	WHAT 416 436	the two longer sides
+T31	HOW 437 445	together
+T32	VERB 450 455	close
+T33	WHAT 456 458	it
+T34	TIME 478 482	then
+T35	VERB 483 485	do
+T36	WHAT 486 494	the same
+T37	HOW 495 520	with the two smaller ends
+T38	HOW 522 555	Using a SMALL amount of olive oil
+T39	VERB 557 561	coat
+T40	WHAT 562 582	the top of the dough
+T41	TIME 583 587	then
+T42	VERB 588 596	sprinkle
+T43	WHAT 597 630	Garlic Salt and Italian Seasoning
+T44	WHERE 631 643	over the top
+T45	VERB 645 648	Put
+T46	WHAT 649 658	the bread
+T47	WHERE 659 672	into the oven
+T48	TIME 673 690	for 30-45 minutes
+T49	VERB 753 757	Heat
+T50	WHAT 758 767	the sauce
+T51	WHERE 768 789	in a medium sauce pan
+T52	HOW 790 807	with a lid on top
+T53	VERB 809 820	Cool, Serve

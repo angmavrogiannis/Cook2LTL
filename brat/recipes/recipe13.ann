@@ -1,0 +1,20 @@
+T1	VERB 0 5	Cream
+T2	WHAT 6 27	butter, sugar and egg
+T3	VERB 29 32	Add
+T4	WHAT 33 54	orange juice and rind
+T5	VERB 59 62	mix
+T6	HOW 63 67	well
+T7	VERB 69 73	Sift
+T8	WHAT 74 102	flour, baking soda, and salt
+T9	VERB 104 107	Add
+T10	WHERE 108 126	to creamed mixture
+T11	TIME 131 135	then
+T12	VERB 136 143	stir in
+T13	WHAT 144 164	pineapple and pecans
+T14	VERB 166 170	Pour
+T15	WHERE 171 203	into a greased 9" by 5" loaf pan
+T16	VERB 205 214	Let stand
+T17	TIME 215 231	while oven heats
+T18	TEMP 235 246	350 degrees
+T19	VERB 248 252	Bake
+T20	TIME 257 267	45 minutes

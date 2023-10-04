@@ -1,0 +1,43 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 21	400 F
+T4	WHERE 23 42	In a food processor
+T5	VERB 44 49	pulse
+T6	WHAT 50 80	flour, sugar and baking powder
+T7	TIME 81 100	until well combined
+T8	TIME 102 106	Next
+T9	VERB 108 111	add
+T10	WHAT 112 118	butter
+T11	VERB 123 128	pulse
+T12	TIME 129 167	until the mixture resembles small peas
+T13	WHERE 169 187	In a separate bowl
+T14	VERB 189 192	mix
+T15	WHAT 193 227	egg, ricotta, vanilla and cinnamon
+T16	TIME 229 233	Next
+T17	VERB 235 238	add
+T18	WHAT 239 254	the egg mixture
+T19	WHERE 255 278	into the food processor
+T20	VERB 283 288	pulse
+T21	TIME 289 337	just until wet and dry ingredients come together
+T22	VERB 339 347	Roll out
+T23	WHAT 348 353	dough
+T24	WHERE 354 374	on a floured surface
+T25	VERB 376 379	Cut
+T26	HOW 380 393	into 6 pieces
+T27	VERB 398 403	place
+T28	WHERE 404 443	on a parchment paper lined baking sheet
+T29	VERB 445 448	Top
+T30	WHAT 449 459	each piece
+T31	HOW 460 488	with bite sized peach pieces
+T32	VERB 493 501	sprinkle
+T33	HOW 502 531	with pinch of turbinado sugar
+T34	WHERE 532 545	on each scone
+T35	VERB 547 551	Bake
+T36	TIME 552 565	13-15 minutes
+T37	VERB 582 585	mix
+T38	WHAT 586 625	confectioners sugar, milk, and cinnamon
+T39	WHERE 626 641	in a small bowl
+T40	TIME 642 661	until well combined
+T41	VERB 663 666	Top
+T42	WHAT 667 673	scones
+T43	HOW 674 693	with cinnamon glaze

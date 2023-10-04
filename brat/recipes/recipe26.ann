@@ -1,0 +1,37 @@
+T1	VERB 0 5	Crush
+T2	WHAT 6 17	raspberries
+T3	HOW 19 38	one layer at a time
+T4	VERB 40 45	Place
+T5	WHAT 46 66	prepared raspberries
+T6	WHERE 67 79	in jelly bag
+T7	VERB 81 98	hang and let drip
+T8	WHERE 99 108	into bowl
+T9	TIME 109 129	until dripping stops
+T10	VERB 131 136	Press
+T11	WHAT 137 140	bag
+T12	HOW 141 147	gently
+T13	VERB 180 187	Measure
+T14	WHERE 218 237	into large saucepan
+T15	WHAT 188 217	exactly 4 cups prepared juice
+T16	VERB 239 246	Stir in
+T17	WHAT 247 253	pectin
+T18	VERB 255 260	Bring
+T19	TEMP 264 281	boil on high heat
+T20	VERB 283 290	Stir in
+T21	WHAT 291 296	sugar
+T22	VERB 298 304	Return
+T23	TEMP 308 312	boil
+T24	VERB 314 318	cook
+T25	TIME 319 324	1 min
+T26	VERB 326 332	Remove
+T27	WHERE 333 342	from heat
+T28	VERB 344 357	Stir and skim
+T29	TIME 358 363	5 min
+T30	VERB 365 369	Pour
+T31	WHERE 370 395	into warm sterilized jars
+T32	HOW 397 429	filling up to 1/4 inch from rims
+T33	VERB 431 436	Cover
+T34	HOW 437 446	with lids
+T35	VERB 448 457	Let stand
+T36	TIME 478 499	24 hours or until set
+T37	TEMP 458 477	at room temperature

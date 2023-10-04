@@ -1,0 +1,77 @@
+T1	VERB 0 4	Stir
+T2	WHAT 5 10	yeast
+T3	WHERE 11 34	into 1/2 cup warm water
+T4	VERB 36 52	allow to foam-up
+T5	TIME 53 67	for 10 minutes
+T6	VERB 69 73	Pour
+T7	WHAT 74 87	yeast mixture
+T8	WHERE 88 116	to all remaining ingredients
+T9	VERB 121 124	add
+T10	WHAT 125 142	just enough water
+T11	VERB 146 149	mix
+T12	WHAT 150 155	dough
+T13	HOW 161 175	not too sticky
+T14	VERB 177 180	Mix
+T15	WHAT 181 196	all ingredients
+T16	HOW 197 205	together
+T17	VERB 207 212	knead
+T18	HOW 213 223	thoroughly
+T19	VERB 225 231	Divide
+T20	HOW 232 248	into four pieces
+T21	VERB 253 258	place
+T22	WHERE 259 279	in oiled bowl or pot
+T23	VERB 285 290	cover
+T24	HOW 291 308	with lid or towel
+T25	VERB 310 315	Allow
+T26	WHAT 316 321	dough
+T27	VERB 322 329	to rise
+T28	TIME 330 337	30-mins
+T29	VERB 339 344	knead
+T30	WHAT 345 370	each of the 4 dough balls
+T31	HOW 371 376	again
+T32	VERB 382 388	return
+T33	WHAT 389 393	them
+T34	WHERE 394 409	to the bowl/pot
+T35	VERB 410 417	to rise
+T36	TIME 418 433	another 30-mins
+T37	HOW 435 454	Using 1/4 at a time
+T38	VERB 456 461	knead
+T39	WHAT 462 472	dough ball
+T40	TIME 473 486	one last time
+T41	TIME 488 492	then
+T42	VERB 493 496	cut
+T43	WHAT 497 502	dough
+T44	HOW 503 553	into pieces that can be rolled into about a 5 rope
+T45	VERB 555 559	Make
+T46	VERB 560 580	a circle of the rope
+T47	VERB 585 588	use
+T48	WHAT 589 605	your baby finger
+T49	VERB 606 613	to make
+T50	WHAT 614 628	an indentation
+T51	WHERE 629 648	where the ends join
+T52	VERB 650 653	Set
+T53	WHERE 654 727	on a blanket covered table that has been covered with a clean white sheet
+T54	HOW 729 738	Gradually
+T55	VERB 739 744	cover
+T56	WHAT 745 775	rows of doughnut shaped rounds
+T57	HOW 776 790	with the sheet
+T58	TIME 791 821	when all are arranged on table
+T59	VERB 823 828	cover
+T60	HOW 829 833	also
+T61	HOW 834 850	with the blanket
+T62	VERB 852 860	Let rise
+T63	TIME 861 882	until doubled in size
+T64	VERB 884 888	Bake
+T65	TEMP 894 897	350
+T66	WHERE 898 902	oven
+T67	TIME 903 979	for about 15 minutes, or until they start to firm up, but not turn brown yet
+T68	VERB 981 986	Split
+T69	WHAT 987 998	each circle
+T70	HOW 999 1021	in half (like a bagel)
+T71	TIME 1022 1037	while still hot
+T72	HOW 1038 1101	using a fork to pierce the doughnut shape all around the middle
+T73	VERB 1103 1122	Separate and return
+T74	WHERE 1123 1130	to oven
+T75	TEMP 1131 1144	at 375 or 400
+T76	VERB 1147 1152	Toast
+T77	TIME 1153 1164	until brown

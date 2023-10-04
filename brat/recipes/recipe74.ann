@@ -1,0 +1,23 @@
+T1	VERB 0 3	Cut
+T2	WHAT 4 13	the melon
+T3	HOW 14 47	into chunks, reserving the juices
+T4	VERB 49 52	Put
+T5	WHAT 53 77	the melon and its juices
+T6	WHERE 78 92	into a blender
+T7	HOW 93 134	along with the apple juice and lime juice
+T8	VERB 139 144	blend
+T9	TIME 145 157	until smooth
+T10	VERB 159 162	Add
+T11	WHAT 163 171	the mint
+T12	TIME 172 205	for just a few seconds at the end
+T13	VERB 207 211	Pour
+T14	WHAT 212 220	the soup
+T15	WHERE 221 232	into a bowl
+T16	VERB 237 245	whisk in
+T17	WHAT 246 256	the yogurt
+T18	VERB 258 263	Taste
+T19	WHAT 264 272	the soup
+T20	VERB 277 284	correct
+T21	WHAT 285 299	the seasonings
+T22	VERB 317 320	add
+T23	WHAT 321 356	more mint or perhaps a little honey

@@ -1,0 +1,20 @@
+T1	VERB 0 4	Cook
+T2	WHAT 5 13	macaroni
+T3	HOW 14 45	according to package directions
+T4	VERB 47 52	drain
+T5	HOW 53 57	well
+T6	VERB 59 63	Cold
+T7	VERB 65 72	Combine
+T8	WHAT 73 129	macaroni, cheese cubes, celery, green pepper and pimento
+T9	VERB 131 136	Blend
+T10	VERB 238 242	Toss
+T11	HOW 243 250	lightly
+T12	VERB 280 285	Serve
+T13	WHAT 286 291	salad
+T14	WHERE 292 313	in lettuce lined bowl
+T15	HOW 137 145	together
+T16	WHAT 146 212	mayonnaise or possibly salad dressing, vinegar, salt and dill weed
+T17	VERB 214 220	add in
+T18	WHERE 221 236	to macaroni mix
+T19	VERB 252 273	Cover and refrigerate
+T20	HOW 274 278	well

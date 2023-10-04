@@ -1,0 +1,39 @@
+T1	VERB 0 7	Preheat
+T2	WHAT 8 12	oven
+T3	TEMP 16 19	350
+T4	VERB 20 27	Combine
+T5	VERB 28 47	first 6 ingredients
+T6	VERB 49 53	Stir
+T7	HOW 54 58	well
+T8	VERB 60 69	set aside
+T9	VERB 70 75	Cream
+T10	WHAT 76 85	margarine
+T11	WHERE 86 101	in a large bowl
+T12	HOW 103 112	gradually
+T13	VERB 113 116	add
+T14	WHAT 117 128	brown sugar
+T15	HOW 130 164	beating at medium speed of a mixer
+T16	TIME 165 187	until light and fluffy
+T17	VERB 189 192	Add
+T18	WHAT 193 196	egg
+T19	VERB 198 202	beat
+T20	HOW 203 207	well
+T21	VERB 209 212	Add
+T22	WHAT 213 226	flour mixture
+T23	WHERE 227 245	to creamed mixture
+T24	VERB 247 251	beat
+T25	TIME 252 288	just until dry ingredients are moist
+T26	VERB 290 297	Stir in
+T27	WHAT 298 332	vanilla, apple, oats, and currants
+T28	VERB 333 338	Spoon
+T29	WHAT 339 345	batter
+T30	WHERE 346 403	into a 9-inch square baking pan coated with cooking spray
+T31	VERB 404 408	Bake
+T32	TEMP 409 415	at 350
+T33	TIME 416 488	for 40 minutes or until a wooden pick inserted in center comes out clean
+T34	VERB 490 494	Cool
+T35	HOW 495 505	completely
+T37	WHERE 506 527	in pan on a wire rack
+T38	VERB 529 537	Sprinkle
+T39	WHAT 538 552	powdered sugar
+T40	WHERE 553 561	over top

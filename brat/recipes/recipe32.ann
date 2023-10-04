@@ -1,0 +1,60 @@
+T1	VERB 18 25	Preheat
+T2	WHAT 26 34	the oven
+T3	TEMP 38 51	350 degrees F
+T4	VERB 53 57	Fill
+T5	WHAT 58 73	the cupcake pan
+T6	HOW 74 91	with paper liners
+T7	VERB 93 97	Beat
+T8	WHAT 98 129	the granulated sugar and butter
+T9	TIME 130 152	until light and fluffy
+T10	WHERE 153 172	in a standing mixer
+T11	VERB 174 181	Beat in
+T12	WHAT 182 190	the eggs
+T13	VERB 192 195	Add
+T14	WHAT 196 220	the lemon zest and juice
+T15	VERB 225 229	beat
+T16	TIME 230 244	until combined
+T17	VERB 246 250	Sift
+T18	WHAT 251 297	the flour, baking powder, baking soda and salt
+T19	WHERE 298 316	in a separate bowl
+T20	HOW 318 329	Alternately
+T21	VERB 330 333	add
+T22	WHAT 334 366	the buttermilk and flour mixture
+T23	WHERE 367 388	to the standing mixer
+T24	HOW 390 424	beating well between each addition
+T25	VERB 426 430	Fill
+T26	HOW 450 465	two-thirds full
+T27	WHAT 431 449	the cupcake liners
+T28	VERB 467 471	Bake
+T29	WHAT 472 484	the cupcakes
+T30	TIME 485 545	until a toothpick inserted comes out clean, 18 to 22 minutes
+T31	VERB 547 558	Refrigerate
+T32	VERB 559 571	the cupcakes
+T33	TIME 572 604	until they are completely cooled
+T34	VERB 623 627	Cook
+T35	WHAT 628 688	1/3 cup water, 1 cup of the blueberries and granulated sugar
+T36	TEMP 689 705	over medium heat
+T37	TIME 706 720	for 10 minutes
+T38	HOW 722 741	stirring frequently
+T39	TIME 743 778	Once the blueberries begin to burst
+T40	VERB 780 783	add
+T41	WHAT 784 815	the remaining 1 cup blueberries
+T42	VERB 820 824	cook
+T43	TEMP 825 839	on medium heat
+T44	TIME 841 856	8 to 10 minutes
+T45	VERB 937 941	Beat
+T46	WHAT 942 969	the butter and cream cheese
+T47	TIME 970 992	until light and fluffy
+T48	WHERE 993 1012	in a standing mixer
+T49	VERB 1014 1017	Add
+T50	WHAT 1018 1054	the powdered sugar, vanilla and salt
+T51	VERB 1056 1060	Beat
+T52	TIME 1061 1083	until light and fluffy
+T53	VERB 1085 1089	Core
+T54	WHAT 1090 1102	the cupcakes
+T55	HOW 1103 1123	using an apple corer
+T56	VERB 1125 1129	Fill
+T57	WHAT 1130 1147	each cupcake core
+T58	WHAT 1148 1182	with the blueberry compote filling
+T59	VERB 1187 1190	top
+T60	HOW 1191 1221	with the cream cheese frosting

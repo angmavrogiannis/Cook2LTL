@@ -1,0 +1,24 @@
+T1	VERB 0 7	Combine
+T2	WHAT 8 27	first 8 ingredients
+T3	VERB 29 34	Shape
+T4	HOW 35 55	into small meatballs
+T5	VERB 57 64	Roll in
+T6	WHAT 65 70	flour
+T7	VERB 72 76	Heat
+T8	WHAT 77 80	oil
+T9	WHERE 81 91	in skillet
+T10	TEMP 92 108	over medium heat
+T11	TIME 109 120	about 3 min
+T12	VERB 122 125	Fry
+T13	WHAT 126 135	meatballs
+T14	TIME 136 148	about 10 min
+T15	TIME 150 160	When brown
+T16	VERB 161 168	arrange
+T17	WHERE 169 192	around sides of skillet
+T18	VERB 194 198	Pour
+T19	WHAT 199 229	condensed soup and lowfat milk
+T20	WHERE 262 282	in center of skillet
+T21	VERB 284 290	Add in
+T22	WHAT 291 325	liquid removed vegetables and salt
+T23	VERB 327 343	Cover and simmer
+T24	TIME 344 356	about 10 min

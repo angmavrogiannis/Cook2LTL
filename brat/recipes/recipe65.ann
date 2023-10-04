@@ -1,0 +1,19 @@
+T1	VERB 0 4	Whip
+T2	WHAT 5 10	cream
+T3	WHERE 11 24	in small bowl
+T4	TIME 25 51	until it holds stiff peaks
+T5	VERB 53 57	Stir
+T6	HOW 58 66	together
+T7	WHAT 67 88	curd and cream cheese
+T8	WHERE 89 105	in separate bowl
+T9	TIME 106 118	until smooth
+T10	VERB 120 124	Fold
+T11	WHAT 125 138	whipped cream
+T12	HOW 139 156	into curd mixture
+T13	VERB 158 171	Pipe or spoon
+T14	WHAT 172 179	mixture
+T15	HOW 180 191	into shells
+T16	VERB 193 196	Top
+T17	HOW 197 223	with your favorite garnish
+T18	VERB 225 236	Refrigerate
+T19	TIME 237 250	until serving

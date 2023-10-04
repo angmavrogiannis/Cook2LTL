@@ -1,0 +1,11 @@
+T1	VERB 0 5	Place
+T2	WHAT 6 20	the cut fruits
+T3	WHERE 21 30	in a bowl
+T4	VERB 32 35	Add
+T5	WHAT 36 71	salt, pepper, fresh cream and sugar
+T6	VERB 73 76	Mix
+T7	HOW 77 81	well
+T8	VERB 83 90	Garnish
+T9	HOW 91 107	with mint leaves
+T10	VERB 109 114	Serve
+T11	TEMP 115 122	chilled

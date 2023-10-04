@@ -1,0 +1,21 @@
+T1	VERB 0 4	Tear
+T2	WHAT 5 12	chicken
+T3	HOW 13 31	into bite size pcs
+T4	VERB 33 36	mix
+T5	HOW 37 72	with soup, chili, salsa and tapioca
+T6	VERB 74 78	Line
+T7	WHAT 79 98	bottom of crock pot
+T8	HOW 99 145	with 3 corn tortillas, torn into bite size pcs
+T9	VERB 147 153	Add in
+T10	WHAT 154 176	1/3 of the chicken mix
+T11	VERB 178 186	Sprinkle
+T12	HOW 187 237	with 1/3 of the onion and 1/3 of the grated cheese
+T13	VERB 239 245	Repeat
+T14	WHAT 246 308	layers of tortillas topped with chicken mix, onions and cheese
+T15	VERB 310 324	Cover and cook
+T16	TEMP 325 331	on low
+T17	TIME 332 342	6 to 8 hrs
+T18	TEMP 355 359	high
+T19	TIME 360 369	for 3 hrs
+T20	VERB 371 378	Garnish
+T21	HOW 379 403	with sliced black olives

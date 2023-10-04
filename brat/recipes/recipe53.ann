@@ -1,0 +1,40 @@
+T1	VERB 0 20	Peel, core and slice
+T2	WHAT 21 31	the apples
+T3	VERB 33 40	Combine
+T4	WHAT 41 68	all the filling ingredients
+T5	VERB 73 76	mix
+T6	HOW 77 81	well
+T7	VERB 83 86	Cut
+T8	WHAT 87 107	each piece of pastry
+T9	HOW 108 150	into 2 equal rectangles (about 30cm X 15cm
+T10	VERB 153 156	Put
+T11	WHAT 157 164	1 piece
+T12	WHERE 165 191	onto a greased baking tray
+T13	VERB 196 201	place
+T14	WHAT 202 219	a line of filling
+T15	WHERE 220 235	down the center
+T16	HOW 236 246	lengthwise
+T17	VERB 248 253	Brush
+T18	WHAT 254 259	edges
+T19	HOW 260 275	with beaten egg
+T20	VERB 280 283	lay
+T21	WHAT 284 307	another sheet of pastry
+T22	WHERE 308 314	on top
+T23	HOW 316 332	pressing lightly
+T24	VERB 342 349	Flatten
+T25	WHAT 350 357	the top
+T26	HOW 358 381	slightly with your hand
+T27	VERB 383 389	Repeat
+T28	WHAT 390 419	apple/pastry layering process
+T29	HOW 421 451	finishing with a layer of puff
+T30	VERB 453 458	Glaze
+T31	WHAT 459 466	the top
+T32	HOW 467 482	with beaten egg
+T33	VERB 487 495	sprinkle
+T34	HOW 496 524	with extra almonds and sugar
+T35	VERB 526 530	Bake
+T36	TEMP 534 543	190C/380F
+T37	TIME 544 588	for about 25 min till golden brown and crisp
+T38	VERB 590 595	Serve
+T39	TEMP 596 600	warm
+T40	HOW 601 637	with cream and/or possibly ice-cream
