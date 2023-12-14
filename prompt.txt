@@ -1,0 +1,54 @@
+def cook(pasta: what):
+
+	# put water in the pot
+	put(water, pot)
+
+	# pick up pot
+	pick up(pot)
+
+	# put pot on stovetop
+	put(pot, stovetop)
+
+	# turn on stovetop
+	turn on(stovetop)
+
+	# wait until the water boils
+	wait(water==boiled)
+
+	# pick up the pasta
+	pick up(pasta)
+
+	# put the pasta in the pot
+	put(pasta, pot)
+
+	# wait
+	wait(pasta==ready)
+
+	# turn off stovetop
+	turn off(stovetop)
+
+def bake(cake: what, oven: where, 30 minutes: time):
+
+	# pick up the cake
+	pick up(cake)
+
+	# put the cake on the baking pan
+	put(cake, baking pan)
+
+	# open the oven
+	open(oven)
+
+	# put the baking pan in the oven
+	put(baking pan, oven)
+
+	# close the oven
+	close(oven)
+
+	# turn on the oven
+	turn on(oven)
+
+	# wait for 30 minutes
+	wait(timer==30 minutes)
+
+	# turn off the oven
+	turn off(oven)

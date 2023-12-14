@@ -1,0 +1,57 @@
+def refrigerate(cookie: what, until cold:time):
+	available_objects = [cookie, fridge]
+        # open the fridge
+        open(fridge)
+
+        # pick up the cookie
+        pick up(cookie)
+
+        # put the cookie in the fridge
+        put(cookie, fridge)
+
+        # close the fridge
+        close(fridge)
+
+        # wait until the cookie is cold
+        wait(cookie==cold)
+
+def store(fruit: what, cabinet: where):
+    available_objects = [fruit, cabinet]
+        # open the cabinet
+        open(cabinet)
+
+        # pick up the fruit
+        put(fruit)
+
+        # put the fruit in the cabinet
+        put(fruit, cabinet)
+
+        # close the cabinet
+        close(cabinet)
+
+
+def bake(cake: what, oven: where, 30 minutes: time):
+	available_objects = [cake, oven, baking pan]
+        # pick up the cake
+        pick up(cake)
+
+        # put the cake on the baking pan
+        put(cake, baking pan)
+
+        # open the oven
+        open(oven)
+
+        # put the baking pan in the oven
+        put(baking pan, oven)
+
+        # close the oven
+        close(oven)
+
+        # turn on the oven
+        turn on(oven)
+
+        # wait for 30 minutes
+        wait(timer==30 minutes)
+
+        # turn off the oven
+        turn off(oven)
