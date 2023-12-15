@@ -23,8 +23,8 @@ model_type = "ner"
 training_set = []
 span_key = "sc"
 for j in range(100):
-	txt_filename = f"recipe{j}.txt"
-	ann_filename = f"recipe{j}.ann"
+	txt_filename = f"brat/recipes/recipe{j}.txt"
+	ann_filename = f"brat/recipes/recipe{j}.ann"
 	with open(txt_filename) as txt_f, open(ann_filename) as ann_f:
 		recipe_text = txt_f.read()
 		annotations = ann_f.readlines()
