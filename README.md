@@ -3,6 +3,9 @@
 This repository contains code and technical details for the paper:
 
 **[Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models](https://arxiv.org/abs/2310.00163)**
+
+To appear at **[ICRA 2024](https://2024.ieee-icra.org)** in Yokohama, Japan (05/13/2024-05/17/2024).
+
 <p align="center">
   <img src="/images/cover.jpeg" alt="Cook2LTL Cover" />
 </p>
