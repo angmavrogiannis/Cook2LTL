@@ -13,12 +13,17 @@ Authors: Angelos Mavrogiannis, Christoforos Mavrogiannis, Yiannis Aloimonos
 
 Please cite our work if you found it useful:
 ```
-@article{mavrogiannis2023cook2ltl,
-      title={Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models}, 
-      author={Angelos Mavrogiannis and Christoforos Mavrogiannis and Yiannis Aloimonos},
-      journal={arXiv preprint arXiv:2310.00163},
-      year={2023},
-}
+@INPROCEEDINGS{10611086,
+  author={Mavrogiannis, Angelos and Mavrogiannis, Christoforos and Aloimonos, Yiannis},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={17679-17686},
+  keywords={Runtime;Grounding;Large language models;Formal languages;Linguistics;Feature extraction;Libraries},
+  doi={10.1109/ICRA57147.2024.10611086}}
+
 ```
 # Overview
 Cook2LTL is a system that receives a cooking recipe in natural language form, reduces high-level cooking actions to robot-executable primitive actions through the use of LLMs, and produces unambiguous task specifications written in the form of LTL formulae.
