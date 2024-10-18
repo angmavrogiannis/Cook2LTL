@@ -50,7 +50,7 @@ The first step of Cook2LTL is a semantic parser that extracts salient categories
 
 ## Action Reduction
 If $\mathtt{a}\notin\mathcal{A}$, we prompt an LLM with a pythonic import of the set of admissible primitive actions $\mathcal{A}$ in the environment of our use case, two example function implementations using actions from this set, and the function representation $\mathtt{a}$ in the form of the pythonic function along with its parameters. This is implemented in the `action_reduction` function by calling `gpt-3.5-turbo` through the OpenAI API. The new action is added to the pythonic import, enabling the system to invoke it in future action reductions.
-> Note: An OpenAI API key is required for. You can create an account and set up API access [here](https://openai.com/blog/openai-api).
+> Note: An OpenAI API key is required. You can create an account and set up API access [here](https://openai.com/blog/openai-api).
 
 ## Action Library
 Every time that we query the LLM for action reduction, we cache $\mathtt{a}$ and its action reduction policy (in the `cache_action` function) to an action library $\mathbb{A}$ for future use through a dictionary lookup manner. At runtime, a new action $\mathtt{a}$ is now checked against both $\mathcal{A}$ and $\mathbb{A}$. If $\mathtt{a}\in\mathbb{A}$, which means that $\mathtt{Verb}$ from $\mathtt{a}$ matches the $\mathtt{Verb}$ from an action $\mathtt{a}\_\mathbb{A}$ in $\mathbb{A}$ and the parameter types match (e.g. both actions have $\mathtt{What?}$ and $\mathtt{Where?}$ as parameters), then $\mathtt{a}$ is replaced by $\mathtt{a}_\mathbb{A}$ (`reuse_cached_action` function) and its LLM-derived sub-action policy, and passed to the subsequent LTL Translation step.
